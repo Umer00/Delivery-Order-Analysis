@@ -1,0 +1,1201 @@
+Order_ID,Customer_ID,Order_Date,City,Area,Food_Category,Restaurant_Type,Payment_Method,Order_Amount,Delivery_Minutes,Rating,Promo_Used
+ORD00001,CUST0001,2026-05-03,Karachi,Gulshan-e-Iqbal,Chinese,Fast Food,Card,1420,55,3,No
+ORD00002,CUST0002,2026-05-02,Karachi,Clifton,Chinese,Casual Dining,Card,1880,51,3,No
+ORD00003,CUST0003,2026-05-08,Lahore,Wapda Town,Healthy,Casual Dining,Cash,1090,55,1,No
+ORD00004,CUST0004,2026-05-26,Islamabad,Blue Area,Burgers,Cloud Kitchen,Card,1050,36,4,Yes
+ORD00005,CUST0005,2026-05-14,Lahore,Johar Town,Desi,Casual Dining,Card,1180,20,5,No
+ORD00006,CUST0006,2026-05-10,Rawalpindi,Saddar,Desi,Fast Food,Wallet,1710,59,4,No
+ORD00007,CUST0007,2026-05-02,Lahore,DHA Lahore,Bakery,Bakery,Cash,500,48,3,No
+ORD00008,CUST0008,2026-05-29,Islamabad,F-10,Pizza,Casual Dining,Card,1050,20,5,No
+ORD00009,CUST0009,2026-06-13,Karachi,Gulshan-e-Iqbal,Desi,Cloud Kitchen,Wallet,1550,18,3,Yes
+ORD00010,CUST0010,2026-06-03,Karachi,DHA,Desi,Fast Food,Cash,1090,38,4,No
+ORD00011,CUST0011,2026-05-15,Karachi,PECHS,Beverages,Cafe,Card,310,39,5,No
+ORD00012,CUST0012,2026-05-02,Lahore,Johar Town,Beverages,Cafe,Card,500,23,3,Yes
+ORD00013,CUST0013,2026-05-13,Karachi,Gulshan-e-Iqbal,Desi,Casual Dining,CARD,1610,31,4,No
+ORD00014,CUST0014,2026-06-07,Lahore,Johar Town,Pizza,Fast Food,Cash,1050,33,3,Yes
+ORD00015,CUST0015,2026-05-08,Karachi,DHA,Burgers,Fast Food,E-Wallet,1130,52,3,No
+ORD00016,CUST0016,2026-05-16,Lahore,Gulberg,Healthy,Cafe,Cash,940,29,5,No
+ORD00017,CUST0017,2026-05-25,Lahore,Gulberg,Beverages,Cloud Kitchen,Cash,470,27,5,No
+ORD00018,CUST0018,2026-05-22,Karachi,Gulshan-e-Iqbal,Bakery,Cafe,Cash,870,46,3,No
+ORD00019,CUST0019,2026-06-05,Islamabad,I-8,Pizza,Fast Food,Cash,1940,52,3,Yes
+ORD00020,CUST0020,2026-05-24,Karachi,North Nazimabad,Pizza,Fast Food,Wallet,880,67,3,No
+ORD00021,CUST0021,2026-06-02,Karachi,North Nazimabad,Healthy,Casual Dining,Cash,1060,49,4,Yes
+ORD00022,CUST0022,2026-05-25,Karachi,North Nazimabad,Bakery,Bakery,Wallet,490,47,3,No
+ORD00023,CUST0023,2026-05-20,Karachi,North Nazimabad,Desi,Cloud Kitchen,Card,1170,28,5,No
+ORD00024,CUST0024,2026-05-13,Islamabad,Bahria Town ISB,Healthy,Cloud Kitchen,Cash,1360,33,5,No
+ORD00025,CUST0025,2026-06-11,Karachi,Gulshan-e-Iqbal,Pizza,Cloud Kitchen,Cash,900,43,4,No
+ORD00026,CUST0026,2026-06-01,Karachi,PECHS,Beverages,Cafe,Wallet,420,29,4,No
+ORD00027,CUST0027,2026-05-10,Karachi,DHA,Burgers,Fast Food,Cash,890,55,3,No
+ORD00028,CUST0028,2026-05-12,Karachi,North Nazimabad,Burgers,Fast Food,Wallet,950,61,3,No
+ORD00029,CUST0029,2026-06-03,Islamabad,Blue Area,Burgers,Fast Food,Card,1340,36,4,Yes
+ORD00030,CUST0030,2026-05-23,Lahore,DHA Lahore,Beverages,Cafe,Wallet,650,31,4,No
+ORD00031,CUST0031,2026-06-07,Rawalpindi,Satellite Town,Chinese,Casual Dining,Cash,1360,59,1,No
+ORD00032,CUST0032,2026-05-05,Lahore,Gulberg,Beverages,Cafe,Wallet,350,38,4,No
+ORD00033,CUST0033,2026-06-06,Lahore,Wapda Town,Bakery,Bakery,Cash,870,58,3,No
+ORD00034,CUST0034,2026-05-24,Karachi,Clifton,Bakery,Bakery,Card,560,34,5,No
+ORD00035,CUST0035,2026-05-25,Islamabad,F-10,Bakery,Bakery,Cash,870,51,4,Yes
+ORD00036,CUST0036,2026-06-03,Lahore,Gulberg,Burgers,Fast Food,Cash,1030,50,3,Yes
+ORD00037,CUST0037,2026-06-05,Islamabad,Blue Area,Healthy,Casual Dining,Cash,990,33,4,No
+ORD00038,CUST0038,2026-06-06,Lahore,Wapda Town,Healthy,Cloud Kitchen,Cash,710,42,4,No
+ORD00039,CUST0039,2026-06-12,Karachi,Clifton,Bakery,Bakery,Wallet,380,54,3,No
+ORD00040,CUST0040,2026-06-03,Karachi,Gulshan-e-Iqbal,Desi,Cloud Kitchen,Wallet,1250,30,5,No
+ORD00041,CUST0041,2026-05-28,Karachi,North Nazimabad,Desi,Casual Dining,Cash,2110,37,4,No
+ORD00042,CUST0042,2026-06-14,Karachi,North Nazimabad,Pizza,Cloud Kitchen,CARD,2170,60,3,No
+ORD00043,CUST0043,2026-05-18,Lahore,Johar Town,Bakery,Bakery,Cash,400,69,3,Yes
+ORD00044,CUST0044,2026-05-31,Karachi,North Nazimabad,Chinese,Cloud Kitchen,Wallet,1350,52,2,Yes
+ORD00045,CUST0045,2026-06-01,Karachi,DHA,Pizza,Cloud Kitchen,Cash,2140,23,5,No
+ORD00046,CUST0046,2026-05-09,Karachi,PECHS,Pizza,Fast Food,Card,1210,54,4,Yes
+ORD00047,CUST0047,2026-05-31,Islamabad,Blue Area,Pizza,Cloud Kitchen,Card,1070,39,4,Yes
+ORD00048,CUST0048,2026-05-28,Karachi,North Nazimabad,Burgers,Fast Food,CARD,900,36,4,Yes
+ORD00049,CUST0049,2026-05-07,Islamabad,Bahria Town ISB,Healthy,Cloud Kitchen,Wallet,680,18,5,Yes
+ORD00050,CUST0050,2026-05-20,Karachi,Gulshan-e-Iqbal,Chinese,Casual Dining,Wallet,1200,28,5,No
+ORD00051,CUST0051,2026-05-27,Karachi,PECHS,Burgers,Fast Food,Card,1010,43,5,Yes
+ORD00052,CUST0052,2026-05-29,Rawalpindi,Saddar,Chinese,Casual Dining,Cash,1550,72,3,Yes
+ORD00053,CUST0053,2026-05-03,Karachi,Gulistan-e-Johar,Desi,Cloud Kitchen,Cash,830,59,3,Yes
+ORD00054,CUST0054,2026-06-04,Karachi,North Nazimabad,Healthy,Cloud Kitchen,Cash,900,20,4,Yes
+ORD00055,CUST0055,2026-06-10,Karachi,Gulshan-e-Iqbal,Desi,Casual Dining,Cash,1420,36,3,No
+ORD00056,CUST0056,2026-05-19,Lahore,DHA Lahore,Desi,Casual Dining,Card,1400,32,2,No
+ORD00057,CUST0057,2026-05-20,Karachi,PECHS,Chinese,Casual Dining,Wallet,2260,26,5,Yes
+ORD00058,CUST0058,2026-06-06,Karachi,Clifton,Pizza,Casual Dining,Cash,1570,27,4,No
+ORD00059,CUST0059,2026-05-28,Karachi,Gulshan-e-Iqbal,Beverages,Cafe,Cash,490,29,4,Yes
+ORD00060,CUST0060,2026-05-22,Islamabad,Bahria Town ISB,Bakery,Bakery,Wallet,880,26,5,No
+ORD00061,CUST0061,2026-05-29,Lahore,Johar Town,Desi,Casual Dining,Cash,1260,18,5,No
+ORD00062,CUST0062,2026-05-13,Islamabad,F-10,Bakery,Bakery,Wallet,370,27,5,No
+ORD00063,CUST0063,2026-05-20,Karachi,Clifton,Burgers,Fast Food,Cash,980,30,5,No
+ORD00064,CUST0064,2026-06-08,Islamabad,I-8,Desi,Fast Food,Cash,1590,58,3,No
+ORD00065,CUST0065,2026-05-29,Karachi,Gulistan-e-Johar,Burgers,Cloud Kitchen,Cash,1390,40,4,No
+ORD00066,CUST0066,2026-05-06,Karachi,Gulshan-e-Iqbal,Desi,Cloud Kitchen,Card,1310,56,3,Yes
+ORD00067,CUST0067,2026-06-02,Karachi,Clifton,Bakery,Bakery,Cash,590,35,5,No
+ORD00068,CUST0068,2026-05-31,Rawalpindi,Saddar,Healthy,Cafe,Wallet,740,26,4,No
+ORD00069,CUST0069,2026-05-21,Rawalpindi,Saddar,Healthy,Cafe,Cash,1280,40,4,No
+ORD00070,CUST0070,2026-05-03,Lahore,Wapda Town,Healthy,Cafe,Cash,620,28,5,No
+ORD00071,CUST0071,2026-06-09,Karachi,PECHS,Pizza,Fast Food,Card,1430,31,3,No
+ORD00072,CUST0072,2026-05-13,Lahore,DHA Lahore,Bakery,Bakery,Wallet,590,60,4,Yes
+ORD00073,CUST0073,2026-05-05,Karachi,Gulshan-e-Iqbal,Burgers,Cloud Kitchen,Cash,750,31,3,No
+ORD00074,CUST0074,2026-05-01,Karachi,PECHS,Healthy,Cloud Kitchen,Wallet,1480,23,4,No
+ORD00075,CUST0075,2026-05-20,Karachi,Gulshan-e-Iqbal,Beverages,Cafe,Cash,300,30,5,No
+ORD00076,CUST0076,2026-05-31,Karachi,North Nazimabad,Burgers,Fast Food,Wallet,1240,38,4,No
+ORD00077,CUST0077,2026-06-15,Karachi,Gulshan-e-Iqbal,Healthy,Cafe,Cash,1190,41,4,No
+ORD00078,CUST0078,2026-05-29,Lahore,DHA Lahore,Bakery,Bakery,Cash,870,25,4,No
+ORD00079,CUST0079,2026-05-27,Lahore,Johar Town,Beverages,Cafe,Cash,580,40,3,Yes
+ORD00080,CUST0080,2026-06-14,Karachi,North Nazimabad,Desi,Cloud Kitchen,Cash,1370,30,4,No
+ORD00081,CUST0081,2026-06-12,Islamabad,F-10,Desi,Fast Food,Cash,1120,33,4,No
+ORD00082,CUST0082,2026-06-13,Lahore,DHA Lahore,Pizza,Fast Food,Wallet,910,29,4,Yes
+ORD00083,CUST0083,2026-05-30,Karachi,North Nazimabad,Burgers,Cloud Kitchen,Cash,1150,24,5,No
+ORD00084,CUST0084,2026-06-06,Islamabad,F-10,Pizza,Fast Food,Card,1670,45,3,Yes
+ORD00085,CUST0085,2026-06-05,Lahore,DHA Lahore,Pizza,Fast Food,Cash,1410,45,3,Yes
+ORD00086,CUST0086,2026-05-12,Karachi,Gulshan-e-Iqbal,Pizza,Casual Dining,Wallet,1770,37,3,No
+ORD00087,CUST0087,2026-05-25,Lahore,Johar Town,Beverages,Cafe,Card,390,19,5,No
+ORD00088,CUST0088,2026-05-11,Karachi,Gulshan-e-Iqbal,Healthy,Cloud Kitchen,Wallet,1070,46,3,No
+ORD00089,CUST0089,2026-05-08,Karachi,North Nazimabad,Desi,Casual Dining,CARD,1860,37,4,Yes
+ORD00090,CUST0090,2026-06-09,Karachi,North Nazimabad,Beverages,Cafe,Wallet,300,35,4,No
+ORD00091,CUST0091,2026-06-12,Lahore,DHA Lahore,Burgers,Cloud Kitchen,Wallet,1260,54,3,Yes
+ORD00092,CUST0092,2026-05-11,Karachi,PECHS,Pizza,Fast Food,Cash,1810,34,4,Yes
+ORD00093,CUST0093,2026-05-16,Karachi,North Nazimabad,Desi,Casual Dining,Cash,2050,22,5,Yes
+ORD00094,CUST0094,2026-06-13,Karachi,North Nazimabad,Beverages,Cafe,Card,410,33,3,Yes
+ORD00095,CUST0095,2026-05-29,Karachi,North Nazimabad,Desi,Casual Dining,Cash,2070,57,3,Yes
+ORD00096,CUST0096,2026-05-25,Karachi,North Nazimabad,Healthy,Cloud Kitchen,E-Wallet,1040,41,3,No
+ORD00097,CUST0097,2026-06-07,Karachi,DHA,Burgers,Cloud Kitchen,Cash,1190,22,5,Yes
+ORD00098,CUST0098,2026-06-05,Islamabad,Bahria Town ISB,Healthy,Cafe,Cash,870,49,5,Yes
+ORD00099,CUST0099,2026-06-08,Lahore,Johar Town,Burgers,Cloud Kitchen,Cash,1340,47,4,No
+ORD00100,CUST0100,2026-05-05,Karachi,Clifton,Beverages,Fast Food,cash,730,53,3,Yes
+ORD00101,CUST0101,2026-06-03,Lahore,Johar Town,Beverages,Cafe,Card,440,51,4,No
+ORD00102,CUST0102,2026-05-17,Rawalpindi,Bahria Rawalpindi,Desi,Cloud Kitchen,Card,1750,41,4,No
+ORD00103,CUST0103,2026-05-01,Rawalpindi,Satellite Town,Chinese,Casual Dining,Cash,1830,21,3,Yes
+ORD00104,CUST0104,2026-06-12,Karachi,North Nazimabad,Chinese,Cloud Kitchen,Cash,1260,32,4,No
+ORD00105,CUST0105,2026-05-25,Karachi,PECHS,Burgers,Fast Food,Cash,1050,49,2,No
+ORD00106,CUST0106,2026-05-10,Karachi,Gulistan-e-Johar,Desi,Casual Dining,Card,1390,42,4,No
+ORD00107,CUST0107,2026-05-13,Islamabad,Blue Area,Burgers,Fast Food,Cash,850,32,4,Yes
+ORD00108,CUST0108,2026-05-11,Karachi,Clifton,Desi,Casual Dining,Cash,880,55,3,Yes
+ORD00109,CUST0109,2026-06-14,Lahore,Wapda Town,Bakery,Bakery,Cash,520,40,3,Yes
+ORD00110,CUST0110,2026-05-17,Islamabad,Bahria Town ISB,Bakery,Bakery,Cash,790,28,5,No
+ORD00111,CUST0111,2026-05-21,Karachi,PECHS,Beverages,Fast Food,Cash,320,49,2,No
+ORD00112,CUST0112,2026-06-13,Lahore,DHA Lahore,Healthy,Cafe,E-Wallet,1060,25,5,No
+ORD00113,CUST0113,2026-05-05,Karachi,Gulshan-e-Iqbal,Burgers,Cloud Kitchen,Wallet,1320,44,4,No
+ORD00114,CUST0114,2026-05-05,Karachi,Clifton,Desi,Casual Dining,Card,1920,42,4,No
+ORD00115,CUST0115,2026-05-13,Karachi,Gulshan-e-Iqbal,Beverages,Cafe,Cash,580,47,4,No
+ORD00116,CUST0116,2026-06-04,Karachi,North Nazimabad,Bakery,Bakery,Cash,600,63,2,No
+ORD00117,CUST0117,2026-05-31,Karachi,PECHS,Bakery,Bakery,Card,370,44,3,Yes
+ORD00118,CUST0118,2026-05-13,Rawalpindi,Bahria Rawalpindi,Desi,Casual Dining,Card,1490,49,3,No
+ORD00119,CUST0119,2026-05-09,Karachi,Clifton,Bakery,Bakery,Wallet,580,20,4,Yes
+ORD00120,CUST0120,2026-05-26,Lahore,DHA Lahore,Beverages,Cafe,Wallet,600,37,5,Yes
+ORD00121,CUST0121,2026-05-26,Karachi,Clifton,Desi,Casual Dining,Cash,1110,39,2,No
+ORD00122,CUST0122,2026-06-04,Karachi,DHA,Pizza,Fast Food,Card,1090,37,3,No
+ORD00123,CUST0123,2026-06-11,Islamabad,Bahria Town ISB,Burgers,Fast Food,Cash,1210,45,3,Yes
+ORD00124,CUST0124,2026-05-16,Lahore,Model Town,Beverages,Cafe,Card,600,31,3,No
+ORD00125,CUST0125,2026-05-07,Karachi,Gulshan-e-Iqbal,Bakery,Bakery,Cash,810,44,5,No
+ORD00126,CUST0126,2026-05-25,Karachi,DHA,Desi,Casual Dining,cash,1790,65,2,No
+ORD00127,CUST0127,2026-05-05,Karachi,Clifton,Desi,Casual Dining,Cash,1560,28,4,No
+ORD00128,CUST0128,2026-06-12,Islamabad,I-8,Burgers,Fast Food,Cash,830,18,5,No
+ORD00129,CUST0129,2026-06-11,Rawalpindi,Chaklala,Burgers,Fast Food,Cash,1340,26,4,No
+ORD00130,CUST0130,2026-06-12,Karachi,Clifton,Pizza,Cloud Kitchen,Cash,1720,35,4,Yes
+ORD00131,CUST0131,2026-06-04,Karachi,North Nazimabad,Burgers,Cloud Kitchen,Card,770,36,4,No
+ORD00132,CUST0132,2026-05-10,Lahore,Gulberg,Beverages,Cafe,Wallet,330,39,4,Yes
+ORD00133,CUST0133,2026-06-01,Karachi,North Nazimabad,Chinese,Cloud Kitchen,Wallet,2010,29,4,No
+ORD00134,CUST0134,2026-05-13,Karachi,Gulistan-e-Johar,Chinese,Cloud Kitchen,Card,1440,33,4,Yes
+ORD00135,CUST0135,2026-06-15,Islamabad,G-11,Beverages,Fast Food,Wallet,500,27,4,No
+ORD00136,CUST0136,2026-05-17,Rawalpindi,Satellite Town,Chinese,Casual Dining,Cash,1070,54,3,No
+ORD00137,CUST0137,2026-06-07,Lahore,Gulberg,Desi,Cloud Kitchen,Cash,1570,39,4,Yes
+ORD00138,CUST0138,2026-06-07,Karachi,Gulshan-e-Iqbal,Desi,Cloud Kitchen,Cash,1040,34,5,No
+ORD00139,CUST0139,2026-05-19,Lahore,Johar Town,Beverages,Cafe,Wallet,620,25,5,Yes
+ORD00140,CUST0140,2026-06-09,Karachi,Clifton,Chinese,Casual Dining,Cash,1700,42,4,No
+ORD00141,CUST0141,2026-05-05,Rawalpindi,Saddar,Burgers,Cloud Kitchen,Cash,1340,20,4,No
+ORD00142,CUST0142,2026-06-03,Karachi,PECHS,Pizza,Cloud Kitchen,Card,1600,44,5,Yes
+ORD00143,CUST0143,2026-06-10,Lahore,Wapda Town,Desi,Cloud Kitchen,Wallet,1760,40,3,No
+ORD00144,CUST0144,2026-05-10,Karachi,DHA,Desi,Casual Dining,Wallet,2070,32,3,No
+ORD00145,CUST0145,2026-06-01,Lahore,Johar Town,Pizza,Fast Food,Card,1630,42,5,No
+ORD00146,CUST0146,2026-05-06,Karachi,PECHS,Chinese,Fast Food,Cash,1210,49,3,Yes
+ORD00147,CUST0147,2026-05-31,Islamabad,I-8,Desi,Casual Dining,Cash,1690,30,5,No
+ORD00148,CUST0148,2026-05-07,Karachi,North Nazimabad,Bakery,Cafe,Cash,900,44,3,Yes
+ORD00149,CUST0149,2026-05-06,Islamabad,G-11,Healthy,Cafe,Wallet,1020,56,1,Yes
+ORD00150,CUST0150,2026-06-05,Karachi,Gulshan-e-Iqbal,Chinese,Cloud Kitchen,Cash,860,36,5,No
+ORD00151,CUST0151,2026-05-16,Karachi,DHA,Beverages,Cafe,Card,500,30,3,No
+ORD00152,CUST0152,2026-05-10,Karachi,PECHS,Burgers,Cloud Kitchen,Card,1460,46,5,No
+ORD00153,CUST0153,2026-05-15,Lahore,Model Town,Bakery,Bakery,Card,390,39,2,No
+ORD00154,CUST0154,2026-05-07,Rawalpindi,Bahria Rawalpindi,Pizza,Fast Food,Cash,1230,37,3,No
+ORD00155,CUST0155,2026-06-04,Islamabad,I-8,Chinese,Casual Dining,Cash,2020,34,3,Yes
+ORD00156,CUST0156,2026-05-29,Karachi,DHA,Chinese,Cloud Kitchen,Wallet,1990,32,3,Yes
+ORD00157,CUST0157,2026-06-12,Karachi,Gulshan-e-Iqbal,Desi,Cloud Kitchen,Card,1450,57,2,No
+ORD00158,CUST0158,2026-06-08,Rawalpindi,Chaklala,Bakery,Bakery,Card,850,40,5,No
+ORD00159,CUST0159,2026-06-15,Karachi,Gulshan-e-Iqbal,Desi,Casual Dining,Cash,1400,31,3,No
+ORD00160,CUST0160,2026-05-11,Karachi,PECHS,Healthy,Cafe,Cash,1170,36,3,Yes
+ORD00161,CUST0161,2026-05-06,Islamabad,Blue Area,Desi,Cloud Kitchen,Card,800,31,3,Yes
+ORD00162,CUST0162,2026-06-04,Karachi,North Nazimabad,Bakery,Bakery,Card,520,26,5,No
+ORD00163,CUST0163,2026-05-16,Karachi,DHA,Beverages,Cafe,Cash,740,28,5,No
+ORD00164,CUST0164,2026-05-21,Karachi,DHA,Chinese,Casual Dining,Cash,940,29,5,Yes
+ORD00165,CUST0165,2026-05-16,Rawalpindi,Chaklala,Bakery,Cafe,Card,820,45,5,No
+ORD00166,CUST0166,2026-05-13,Islamabad,F-10,Chinese,Cloud Kitchen,Card,1510,43,4,No
+ORD00167,CUST0167,2026-05-19,Karachi,Gulshan-e-Iqbal,Chinese,Cloud Kitchen,E-Wallet,870,65,3,No
+ORD00168,CUST0168,2026-06-07,Karachi,North Nazimabad,Beverages,Cafe,Card,370,37,4,Yes
+ORD00169,CUST0169,2026-05-22,Lahore,DHA Lahore,Beverages,Cafe,Wallet,360,30,4,No
+ORD00170,CUST0170,2026-05-14,Lahore,Johar Town,Desi,Casual Dining,Wallet,1170,37,3,No
+ORD00171,CUST0171,2026-06-02,Lahore,Gulberg,Desi,Cloud Kitchen,Card,960,32,4,No
+ORD00172,CUST0172,2026-06-09,Karachi,DHA,Bakery,Bakery,Cash,520,29,5,No
+ORD00173,CUST0173,2026-06-11,Lahore,Johar Town,Burgers,Fast Food,Cash,1330,24,5,Yes
+ORD00174,CUST0174,2026-06-05,Karachi,PECHS,Pizza,Casual Dining,Cash,2420,59,2,Yes
+ORD00175,CUST0175,2026-05-22,Karachi,Gulshan-e-Iqbal,Desi,Casual Dining,Cash,1110,53,3,No
+ORD00176,CUST0176,2026-06-01,Karachi,Clifton,Pizza,Casual Dining,Card,2200,38,4,Yes
+ORD00177,CUST0177,2026-06-06,Lahore,Model Town,Desi,Casual Dining,Card,1640,44,4,No
+ORD00178,CUST0178,2026-06-13,Karachi,PECHS,Desi,Fast Food,Card,1100,39,3,Yes
+ORD00179,CUST0179,2026-05-15,Islamabad,G-11,Pizza,Casual Dining,Card,1270,42,2,No
+ORD00180,CUST0180,2026-05-03,Lahore,DHA Lahore,Chinese,Casual Dining,Cash,1180,70,3,Yes
+ORD00181,CUST0181,2026-05-18,Lahore,Johar Town,Chinese,Cloud Kitchen,Cash,1320,37,5,Yes
+ORD00182,CUST0182,2026-05-26,Rawalpindi,Saddar,Desi,Casual Dining,Cash,2060,26,4,No
+ORD00183,CUST0183,2026-05-17,Karachi,DHA,Healthy,Cloud Kitchen,Card,1320,34,4,No
+ORD00184,CUST0184,2026-05-11,Rawalpindi,Chaklala,Bakery,Bakery,Card,620,31,3,Yes
+ORD00185,CUST0185,2026-05-26,Karachi,Clifton,Burgers,Cloud Kitchen,Card,820,22,5,No
+ORD00186,CUST0186,2026-05-22,Lahore,DHA Lahore,Pizza,Fast Food,Cash,1540,41,4,No
+ORD00187,CUST0187,2026-06-12,Lahore,Johar Town,Pizza,Fast Food,Wallet,1170,73,4,Yes
+ORD00188,CUST0188,2026-05-23,Islamabad,G-11,Desi,Cloud Kitchen,Card,1300,25,4,No
+ORD00189,CUST0189,2026-06-04,Lahore,Model Town,Bakery,Bakery,Card,640,66,1,No
+ORD00190,CUST0190,2026-05-05,Rawalpindi,Saddar,Pizza,Fast Food,Card,1780,38,3,No
+ORD00191,CUST0191,2026-05-19,Karachi,North Nazimabad,Pizza,Fast Food,Cash,1740,24,3,Yes
+ORD00192,CUST0192,2026-05-08,Lahore,Johar Town,Chinese,Casual Dining,Cash,1240,43,4,No
+ORD00193,CUST0193,2026-05-05,Karachi,PECHS,Desi,Fast Food,Wallet,720,37,3,Yes
+ORD00194,CUST0194,2026-05-07,Islamabad,Bahria Town ISB,Pizza,Fast Food,Cash,1160,43,5,Yes
+ORD00195,CUST0195,2026-05-06,Karachi,North Nazimabad,Pizza,Fast Food,Card,910,24,4,No
+ORD00196,CUST0196,2026-05-22,Islamabad,I-8,Chinese,Casual Dining,Card,2220,30,4,No
+ORD00197,CUST0197,2026-05-08,Islamabad,Blue Area,Healthy,Cafe,cash,670,57,4,No
+ORD00198,CUST0198,2026-05-08,Lahore,Johar Town,Bakery,Bakery,CARD,410,28,5,No
+ORD00199,CUST0199,2026-06-10,Karachi,Gulshan-e-Iqbal,Desi,Cloud Kitchen,Cash,1310,34,4,No
+ORD00200,CUST0200,2026-05-06,Rawalpindi,Saddar,Pizza,Fast Food,Cash,1010,37,4,No
+ORD00201,CUST0201,2026-06-02,Lahore,Johar Town,Chinese,Cloud Kitchen,Card,1330,21,5,Yes
+ORD00202,CUST0202,2026-05-22,Karachi,Clifton,Beverages,Cafe,Cash,690,29,5,Yes
+ORD00203,CUST0203,2026-06-15,Lahore,Model Town,Pizza,Cloud Kitchen,Wallet,1160,43,4,No
+ORD00204,CUST0204,2026-06-15,Karachi,DHA,Chinese,Casual Dining,Cash,1430,45,5,Yes
+ORD00205,CUST0205,2026-06-11,Islamabad,Blue Area,Burgers,Fast Food,Card,1120,39,3,No
+ORD00206,CUST0206,2026-05-15,Karachi,North Nazimabad,Chinese,Cloud Kitchen,Cash,870,29,5,No
+ORD00207,CUST0207,2026-05-11,Lahore,DHA Lahore,Pizza,Fast Food,Cash,1850,27,5,No
+ORD00208,CUST0208,2026-05-09,Karachi,PECHS,Healthy,Cafe,Cash,1310,33,3,Yes
+ORD00209,CUST0209,2026-05-08,Lahore,Gulberg,Chinese,Casual Dining,Card,2300,46,3,Yes
+ORD00210,CUST0210,2026-06-14,Lahore,Gulberg,Healthy,Casual Dining,Wallet,900,38,3,Yes
+ORD00211,CUST0211,2026-05-03,Islamabad,G-11,Beverages,Cafe,Cash,670,19,4,No
+ORD00212,CUST0212,2026-05-02,Karachi,Gulshan-e-Iqbal,Chinese,Casual Dining,Cash,2190,26,4,No
+ORD00213,CUST0213,2026-06-07,Karachi,Gulshan-e-Iqbal,Beverages,Fast Food,Wallet,480,51,3,No
+ORD00214,CUST0214,2026-06-01,Islamabad,Blue Area,Beverages,Cafe,Cash,370,40,5,No
+ORD00215,CUST0215,2026-06-09,Lahore,DHA Lahore,Beverages,Fast Food,Wallet,710,39,4,No
+ORD00216,CUST0216,2026-05-24,Karachi,PECHS,Burgers,Fast Food,Card,1020,42,3,No
+ORD00217,CUST0217,2026-06-12,Lahore,Gulberg,Pizza,Fast Food,Cash,1440,70,4,Yes
+ORD00218,CUST0218,2026-06-03,Karachi,DHA,Pizza,Fast Food,Card,880,37,4,No
+ORD00219,CUST0219,2026-06-12,Islamabad,Blue Area,Pizza,Cloud Kitchen,Wallet,1590,18,5,No
+ORD00220,CUST0220,2026-06-15,Karachi,Gulistan-e-Johar,Beverages,Cafe,Cash,340,24,5,No
+ORD00221,CUST0221,2026-06-03,Karachi,Gulshan-e-Iqbal,Burgers,Fast Food,Card,1020,22,5,No
+ORD00222,CUST0222,2026-05-06,Karachi,DHA,Bakery,Bakery,Cash,500,19,3,No
+ORD00223,CUST0223,2026-05-18,Karachi,Gulshan-e-Iqbal,Desi,Casual Dining,Cash,1950,35,4,No
+ORD00224,CUST0224,2026-05-10,Lahore,Johar Town,Burgers,Cloud Kitchen,Cash,880,41,5,Yes
+ORD00225,CUST0225,2026-05-02,Islamabad,I-8,Beverages,Fast Food,Cash,730,40,4,Yes
+ORD00226,CUST0226,2026-06-09,Karachi,North Nazimabad,Desi,Fast Food,Card,690,42,3,Yes
+ORD00227,CUST0227,2026-05-25,Rawalpindi,Saddar,Bakery,Bakery,Cash,350,30,5,Yes
+ORD00228,CUST0228,2026-05-11,Islamabad,I-8,Burgers,Fast Food,Wallet,1390,35,5,Yes
+ORD00229,CUST0229,2026-05-03,Karachi,PECHS,Desi,Cloud Kitchen,E-Wallet,1450,40,3,Yes
+ORD00230,CUST0230,2026-05-21,Rawalpindi,Satellite Town,Chinese,Fast Food,Cash,780,35,4,No
+ORD00231,CUST0231,2026-05-28,Karachi,North Nazimabad,Desi,Cloud Kitchen,Card,1150,45,3,No
+ORD00232,CUST0232,2026-05-10,Karachi,Clifton,Bakery,Bakery,Card,460,35,5,Yes
+ORD00233,CUST0233,2026-05-01,Rawalpindi,Saddar,Burgers,Cloud Kitchen,CARD,1240,48,3,Yes
+ORD00234,CUST0234,2026-05-02,Rawalpindi,Chaklala,Burgers,Fast Food,Card,640,43,5,Yes
+ORD00235,CUST0235,2026-05-20,Karachi,DHA,Burgers,Fast Food,Card,1070,44,4,No
+ORD00236,CUST0236,2026-05-09,Rawalpindi,Chaklala,Desi,Casual Dining,Card,870,39,3,No
+ORD00237,CUST0237,2026-05-16,Karachi,PECHS,Chinese,Casual Dining,Cash,1130,43,2,No
+ORD00238,CUST0238,2026-05-01,Islamabad,G-11,Beverages,Cloud Kitchen,Cash,590,31,5,Yes
+ORD00239,CUST0239,2026-05-11,Karachi,Gulshan-e-Iqbal,Healthy,Cafe,Cash,1240,48,4,No
+ORD00240,CUST0240,2026-06-02,Karachi,DHA,Chinese,Cloud Kitchen,Cash,890,28,4,No
+ORD00241,CUST0241,2026-05-30,Lahore,Model Town,Pizza,Casual Dining,Wallet,2280,29,4,Yes
+ORD00242,CUST0242,2026-05-23,Karachi,Gulistan-e-Johar,Chinese,Casual Dining,Cash,1440,57,2,Yes
+ORD00243,CUST0243,2026-05-24,Islamabad,Bahria Town ISB,Pizza,Cloud Kitchen,Card,1030,30,4,No
+ORD00244,CUST0244,2026-05-21,Karachi,Gulistan-e-Johar,Pizza,Fast Food,Card,1110,23,4,No
+ORD00245,CUST0245,2026-05-04,Karachi,North Nazimabad,Burgers,Fast Food,Card,930,41,4,No
+ORD00246,CUST0246,2026-06-11,Islamabad,Bahria Town ISB,Healthy,Cloud Kitchen,Card,1480,34,3,No
+ORD00247,CUST0247,2026-06-15,Karachi,Clifton,Desi,Cloud Kitchen,Cash,1250,43,4,Yes
+ORD00248,CUST0248,2026-05-12,Lahore,Wapda Town,Beverages,Cafe,Card,590,45,4,No
+ORD00249,CUST0249,2026-05-06,Lahore,Model Town,Burgers,Fast Food,Card,570,26,3,Yes
+ORD00250,CUST0250,2026-06-06,Lahore,DHA Lahore,Beverages,Cafe,Cash,710,40,3,No
+ORD00251,CUST0251,2026-05-23,Karachi,Gulistan-e-Johar,Desi,Fast Food,CARD,870,24,5,No
+ORD00252,CUST0252,2026-05-31,Islamabad,Bahria Town ISB,Chinese,Cloud Kitchen,Card,920,68,2,No
+ORD00253,CUST0253,2026-06-08,Lahore,Model Town,Burgers,Cloud Kitchen,Cash,1070,69,4,Yes
+ORD00254,CUST0254,2026-05-15,Karachi,DHA,Burgers,Fast Food,Wallet,730,39,4,No
+ORD00255,CUST0255,2026-05-02,Lahore,Gulberg,Burgers,Fast Food,Wallet,1010,34,4,No
+ORD00256,CUST0256,2026-05-15,Lahore,Wapda Town,Beverages,Fast Food,Cash,740,38,5,Yes
+ORD00257,CUST0257,2026-05-05,Karachi,DHA,Pizza,Fast Food,Cash,1030,47,2,No
+ORD00258,CUST0258,2026-06-14,Karachi,Gulshan-e-Iqbal,Pizza,Fast Food,Cash,1060,54,4,No
+ORD00259,CUST0259,2026-05-23,Lahore,Johar Town,Burgers,Fast Food,Cash,1100,55,5,Yes
+ORD00260,CUST0260,2026-05-17,Islamabad,I-8,Pizza,Fast Food,Card,1260,45,4,No
+ORD00261,CUST0261,2026-06-11,Islamabad,F-10,Bakery,Cafe,Cash,480,49,1,Yes
+ORD00262,CUST0262,2026-05-15,Karachi,Clifton,Chinese,Casual Dining,Cash,1590,55,4,Yes
+ORD00263,CUST0263,2026-05-29,Karachi,Clifton,Burgers,Fast Food,Cash,1400,56,3,No
+ORD00264,CUST0264,2026-05-09,Karachi,DHA,Beverages,Cafe,Card,330,29,5,No
+ORD00265,CUST0265,2026-05-20,Rawalpindi,Satellite Town,Chinese,Casual Dining,Card,1830,58,2,No
+ORD00266,CUST0266,2026-05-02,Lahore,DHA Lahore,Chinese,Cloud Kitchen,Card,1820,56,4,No
+ORD00267,CUST0267,2026-05-16,Karachi,Gulshan-e-Iqbal,Desi,Casual Dining,Cash,1220,27,4,No
+ORD00268,CUST0268,2026-05-10,Lahore,Wapda Town,Healthy,Cloud Kitchen,Cash,1490,34,3,Yes
+ORD00269,CUST0269,2026-05-13,Karachi,Gulistan-e-Johar,Chinese,Cloud Kitchen,Card,860,52,2,Yes
+ORD00270,CUST0270,2026-05-16,Rawalpindi,Saddar,Pizza,Cloud Kitchen,Cash,1290,32,4,Yes
+ORD00271,CUST0271,2026-06-13,Karachi,Gulistan-e-Johar,Bakery,Bakery,Wallet,490,58,4,No
+ORD00272,CUST0272,2026-05-18,Lahore,Wapda Town,Desi,Casual Dining,Card,1730,47,3,No
+ORD00273,CUST0273,2026-05-06,Karachi,Gulshan-e-Iqbal,Burgers,Fast Food,Cash,1350,70,4,No
+ORD00274,CUST0274,2026-06-07,Lahore,Wapda Town,Desi,Casual Dining,Card,1240,43,4,No
+ORD00275,CUST0275,2026-06-01,Karachi,Gulshan-e-Iqbal,Chinese,Cloud Kitchen,Cash,1970,38,4,Yes
+ORD00276,CUST0276,2026-06-14,Islamabad,Blue Area,Healthy,Cafe,Wallet,700,23,3,No
+ORD00277,CUST0277,2026-05-09,Islamabad,F-10,Burgers,Fast Food,Cash,970,47,4,No
+ORD00278,CUST0278,2026-05-22,Karachi,PECHS,Chinese,Casual Dining,Card,1290,33,2,No
+ORD00279,CUST0279,2026-05-10,Karachi,PECHS,Beverages,Cafe,Cash,320,37,5,No
+ORD00280,CUST0280,2026-06-03,Lahore,DHA Lahore,Burgers,Fast Food,Cash,1240,75,2,No
+ORD00281,CUST0281,2026-05-17,Karachi,DHA,Burgers,Fast Food,Card,1370,27,4,No
+ORD00282,CUST0282,2026-05-29,Rawalpindi,Bahria Rawalpindi,Beverages,Cafe,Card,670,33,4,No
+ORD00283,CUST0283,2026-06-09,Lahore,Gulberg,Beverages,Cafe,Wallet,600,25,3,No
+ORD00284,CUST0284,2026-05-22,Lahore,DHA Lahore,Desi,Casual Dining,Card,1000,47,2,No
+ORD00285,CUST0285,2026-06-08,Lahore,Gulberg,Beverages,Cafe,Card,340,68,3,No
+ORD00286,CUST0286,2026-06-04,Karachi,Gulshan-e-Iqbal,Healthy,Casual Dining,Wallet,1140,26,4,No
+ORD00287,CUST0287,2026-06-05,Lahore,Johar Town,Burgers,Fast Food,Wallet,1180,39,4,No
+ORD00288,CUST0288,2026-05-01,Rawalpindi,Saddar,Healthy,Cafe,Card,820,21,4,Yes
+ORD00289,CUST0289,2026-06-15,Lahore,Johar Town,Desi,Casual Dining,Card,1360,38,4,No
+ORD00290,CUST0290,2026-05-03,Karachi,DHA,Pizza,Fast Food,Cash,1520,29,5,Yes
+ORD00291,CUST0291,2026-05-04,Lahore,Gulberg,Healthy,Casual Dining,Card,1090,41,4,Yes
+ORD00292,CUST0292,2026-05-06,Karachi,PECHS,Chinese,Cloud Kitchen,Cash,1440,70,4,Yes
+ORD00293,CUST0293,2026-05-30,Karachi,Gulshan-e-Iqbal,Pizza,Fast Food,Wallet,890,36,3,No
+ORD00294,CUST0294,2026-05-06,Karachi,DHA,Desi,Casual Dining,Card,2080,38,3,No
+ORD00295,CUST0295,2026-05-01,Karachi,Gulshan-e-Iqbal,Burgers,Fast Food,Card,820,45,3,Yes
+ORD00296,CUST0296,2026-06-07,Lahore,Johar Town,Desi,Cloud Kitchen,Wallet,1510,44,4,Yes
+ORD00297,CUST0297,2026-05-08,Karachi,DHA,Pizza,Fast Food,Cash,1940,32,4,No
+ORD00298,CUST0298,2026-05-31,Rawalpindi,Chaklala,Burgers,Cloud Kitchen,Cash,920,38,5,No
+ORD00299,CUST0299,2026-05-02,Lahore,DHA Lahore,Pizza,Casual Dining,Wallet,2420,36,4,No
+ORD00300,CUST0300,2026-05-16,Karachi,North Nazimabad,Chinese,Casual Dining,E-Wallet,1270,38,4,No
+ORD00301,CUST0301,2026-05-21,Karachi,PECHS,Burgers,Cloud Kitchen,Cash,1390,36,4,No
+ORD00302,CUST0302,2026-06-09,Karachi,Gulshan-e-Iqbal,Bakery,Bakery,cash,720,41,4,Yes
+ORD00303,CUST0303,2026-05-09,Islamabad,Bahria Town ISB,Desi,Casual Dining,Cash,1580,52,4,No
+ORD00304,CUST0304,2026-06-11,Lahore,Gulberg,Burgers,Fast Food,E-Wallet,1380,43,3,No
+ORD00305,CUST0305,2026-05-10,Rawalpindi,Saddar,Healthy,Cloud Kitchen,Card,890,33,5,No
+ORD00306,CUST0306,2026-06-13,Karachi,Gulistan-e-Johar,Chinese,Casual Dining,E-Wallet,2210,31,4,Yes
+ORD00307,CUST0307,2026-05-30,Lahore,Wapda Town,Pizza,Cloud Kitchen,Cash,1580,20,3,Yes
+ORD00308,CUST0308,2026-05-04,Karachi,Gulshan-e-Iqbal,Burgers,Fast Food,Cash,870,18,5,Yes
+ORD00309,CUST0309,2026-06-10,Lahore,Gulberg,Burgers,Fast Food,Cash,1020,63,4,No
+ORD00310,CUST0310,2026-06-09,Karachi,DHA,Pizza,Cloud Kitchen,Card,1000,37,3,Yes
+ORD00311,CUST0311,2026-05-23,Rawalpindi,Chaklala,Desi,Cloud Kitchen,Card,1320,70,2,Yes
+ORD00312,CUST0312,2026-06-10,Islamabad,Bahria Town ISB,Pizza,Casual Dining,Cash,1920,22,5,No
+ORD00313,CUST0313,2026-05-05,Lahore,Johar Town,Burgers,Fast Food,Card,660,42,3,Yes
+ORD00314,CUST0314,2026-05-14,Karachi,Clifton,Pizza,Fast Food,Wallet,1390,43,4,No
+ORD00315,CUST0315,2026-06-05,Lahore,Model Town,Burgers,Fast Food,Wallet,750,26,4,No
+ORD00316,CUST0316,2026-06-06,Islamabad,F-10,Burgers,Fast Food,Cash,1010,43,3,No
+ORD00317,CUST0317,2026-06-15,Lahore,Model Town,Desi,Casual Dining,Card,1030,33,4,No
+ORD00318,CUST0318,2026-05-12,Karachi,Gulshan-e-Iqbal,Chinese,Casual Dining,Cash,1960,41,3,No
+ORD00319,CUST0319,2026-06-02,Karachi,DHA,Desi,Casual Dining,Wallet,1240,31,4,No
+ORD00320,CUST0320,2026-05-20,Karachi,DHA,Chinese,Casual Dining,Cash,1500,48,3,No
+ORD00321,CUST0321,2026-06-04,Karachi,PECHS,Burgers,Cloud Kitchen,Card,1170,31,5,No
+ORD00322,CUST0322,2026-05-08,Karachi,DHA,Burgers,Cloud Kitchen,Card,960,36,3,Yes
+ORD00323,CUST0323,2026-05-02,Lahore,Model Town,Pizza,Fast Food,Cash,1090,23,5,Yes
+ORD00324,CUST0324,2026-05-19,Rawalpindi,Chaklala,Beverages,Fast Food,Cash,660,37,5,No
+ORD00325,CUST0325,2026-06-07,Karachi,PECHS,Pizza,Fast Food,Cash,1690,37,4,No
+ORD00326,CUST0326,2026-06-09,Lahore,DHA Lahore,Beverages,Cafe,Wallet,590,38,2,No
+ORD00327,CUST0327,2026-05-24,Karachi,PECHS,Desi,Casual Dining,Card,900,51,3,No
+ORD00328,CUST0328,2026-05-19,Rawalpindi,Saddar,Beverages,Cloud Kitchen,Cash,800,37,4,Yes
+ORD00329,CUST0329,2026-05-24,Karachi,Gulshan-e-Iqbal,Beverages,Cafe,Wallet,400,33,5,Yes
+ORD00330,CUST0330,2026-05-25,Islamabad,F-10,Desi,Cloud Kitchen,Card,1630,32,5,No
+ORD00331,CUST0331,2026-06-01,Lahore,Gulberg,Desi,Fast Food,Card,1160,18,5,No
+ORD00332,CUST0332,2026-05-21,Lahore,Gulberg,Desi,Fast Food,Wallet,1240,64,2,No
+ORD00333,CUST0333,2026-05-28,Karachi,Clifton,Burgers,Fast Food,Cash,760,22,4,No
+ORD00334,CUST0334,2026-05-01,Rawalpindi,Saddar,Bakery,Cafe,Card,640,71,4,No
+ORD00335,CUST0335,2026-05-22,Lahore,Wapda Town,Desi,Casual Dining,Cash,1780,60,4,No
+ORD00336,CUST0336,2026-05-05,Lahore,Gulberg,Chinese,Casual Dining,Card,1120,22,5,Yes
+ORD00337,CUST0337,2026-06-06,Karachi,Gulshan-e-Iqbal,Burgers,Cloud Kitchen,Card,1120,42,2,No
+ORD00338,CUST0338,2026-05-30,Islamabad,I-8,Burgers,Fast Food,Cash,630,39,3,Yes
+ORD00339,CUST0339,2026-05-06,Lahore,Johar Town,Desi,Casual Dining,Wallet,1030,73,2,No
+ORD00340,CUST0340,2026-06-02,Islamabad,F-10,Burgers,Fast Food,Wallet,560,20,5,No
+ORD00341,CUST0341,2026-05-01,Karachi,DHA,Chinese,Cloud Kitchen,Card,1740,32,5,No
+ORD00342,CUST0342,2026-06-07,Islamabad,G-11,Burgers,Fast Food,Card,1020,42,4,Yes
+ORD00343,CUST0343,2026-05-16,Islamabad,I-8,Burgers,Fast Food,Wallet,880,54,2,Yes
+ORD00344,CUST0344,2026-05-14,Karachi,Gulistan-e-Johar,Beverages,Cafe,Cash,650,36,4,Yes
+ORD00345,CUST0345,2026-06-04,Karachi,Gulshan-e-Iqbal,Pizza,Cloud Kitchen,Cash,2150,32,4,No
+ORD00346,CUST0346,2026-06-08,Karachi,Clifton,Chinese,Cloud Kitchen,Card,1840,40,2,No
+ORD00347,CUST0347,2026-05-16,Islamabad,F-10,Chinese,Cloud Kitchen,Cash,990,66,2,Yes
+ORD00348,CUST0348,2026-06-11,Lahore,Model Town,Desi,Casual Dining,Wallet,1300,68,4,No
+ORD00349,CUST0349,2026-06-08,Lahore,Wapda Town,Chinese,Cloud Kitchen,Wallet,1120,30,5,No
+ORD00350,CUST0350,2026-06-13,Karachi,DHA,Beverages,Cafe,Wallet,640,28,4,Yes
+ORD00351,CUST0351,2026-05-31,Rawalpindi,Bahria Rawalpindi,Chinese,Cloud Kitchen,Cash,1370,28,4,No
+ORD00352,CUST0352,2026-05-24,Islamabad,Bahria Town ISB,Pizza,Fast Food,Cash,1010,41,4,No
+ORD00353,CUST0353,2026-06-13,Karachi,Gulshan-e-Iqbal,Beverages,Fast Food,Card,630,21,5,No
+ORD00354,CUST0354,2026-06-13,Karachi,Clifton,Burgers,Cloud Kitchen,Card,1360,25,4,No
+ORD00355,CUST0355,2026-06-05,Karachi,Clifton,Chinese,Casual Dining,Cash,970,38,4,Yes
+ORD00356,CUST0356,2026-05-23,Karachi,Gulistan-e-Johar,Chinese,Casual Dining,Card,1160,32,4,Yes
+ORD00357,CUST0357,2026-05-11,Karachi,Gulshan-e-Iqbal,Pizza,Cloud Kitchen,E-Wallet,1770,37,3,Yes
+ORD00358,CUST0358,2026-06-07,Karachi,DHA,Bakery,Bakery,Card,680,27,4,Yes
+ORD00359,CUST0359,2026-05-27,Rawalpindi,Chaklala,Chinese,Cloud Kitchen,Card,1940,31,4,No
+ORD00360,CUST0360,2026-05-29,Rawalpindi,Saddar,Burgers,Fast Food,Cash,750,19,4,No
+ORD00361,CUST0361,2026-05-02,Karachi,Clifton,Beverages,Cafe,Cash,670,39,3,No
+ORD00362,CUST0362,2026-06-09,Lahore,Gulberg,Desi,Cloud Kitchen,Cash,1200,31,4,No
+ORD00363,CUST0363,2026-05-16,Islamabad,Blue Area,Pizza,Cloud Kitchen,Card,1390,61,4,Yes
+ORD00364,CUST0364,2026-05-23,Islamabad,Blue Area,Burgers,Cloud Kitchen,Cash,1210,70,5,No
+ORD00365,CUST0365,2026-06-11,Islamabad,I-8,Burgers,Fast Food,Wallet,780,41,3,No
+ORD00366,CUST0366,2026-05-07,Lahore,Gulberg,Desi,Cloud Kitchen,Cash,1060,31,4,Yes
+ORD00367,CUST0367,2026-05-28,Karachi,Gulistan-e-Johar,Chinese,Cloud Kitchen,Card,840,25,4,Yes
+ORD00368,CUST0368,2026-05-08,Islamabad,Bahria Town ISB,Desi,Casual Dining,Wallet,1180,37,4,Yes
+ORD00369,CUST0369,2026-05-17,Karachi,North Nazimabad,Desi,Cloud Kitchen,Cash,1790,25,4,Yes
+ORD00370,CUST0370,2026-05-07,Karachi,DHA,Pizza,Fast Food,Wallet,1850,64,2,No
+ORD00371,CUST0371,2026-06-04,Karachi,Clifton,Beverages,Cafe,Cash,450,64,4,No
+ORD00372,CUST0372,2026-05-02,Islamabad,I-8,Desi,Casual Dining,E-Wallet,1900,56,3,No
+ORD00373,CUST0373,2026-05-01,Karachi,Gulistan-e-Johar,Beverages,Fast Food,Cash,400,48,5,Yes
+ORD00374,CUST0374,2026-06-06,Karachi,Gulshan-e-Iqbal,Chinese,Fast Food,Card,1570,32,5,Yes
+ORD00375,CUST0375,2026-05-22,Rawalpindi,Bahria Rawalpindi,Chinese,Casual Dining,Wallet,1360,40,5,Yes
+ORD00376,CUST0376,2026-05-24,Karachi,Gulshan-e-Iqbal,Burgers,Cloud Kitchen,Card,1000,41,4,No
+ORD00377,CUST0377,2026-06-05,Karachi,Gulistan-e-Johar,Desi,Casual Dining,Card,1130,31,5,No
+ORD00378,CUST0378,2026-05-26,Karachi,Gulistan-e-Johar,Desi,Cloud Kitchen,Card,1740,36,4,No
+ORD00379,CUST0379,2026-06-13,Karachi,DHA,Burgers,Fast Food,Wallet,940,47,4,Yes
+ORD00380,CUST0380,2026-05-18,Karachi,DHA,Healthy,Cafe,Card,660,36,4,No
+ORD00381,CUST0381,2026-06-13,Islamabad,I-8,Healthy,Casual Dining,Wallet,1680,39,3,No
+ORD00382,CUST0382,2026-06-06,Lahore,Gulberg,Chinese,Casual Dining,Cash,930,36,4,Yes
+ORD00383,CUST0383,2026-05-31,Karachi,Gulistan-e-Johar,Desi,Cloud Kitchen,Cash,1510,48,3,No
+ORD00384,CUST0384,2026-05-22,Lahore,Gulberg,Desi,Casual Dining,Wallet,1260,37,4,No
+ORD00385,CUST0385,2026-06-05,Islamabad,F-10,Pizza,Cloud Kitchen,Cash,950,24,4,Yes
+ORD00386,CUST0386,2026-05-07,Karachi,DHA,Desi,Fast Food,Card,1190,66,5,Yes
+ORD00387,CUST0387,2026-05-23,Rawalpindi,Bahria Rawalpindi,Beverages,Cafe,Wallet,690,67,4,Yes
+ORD00388,CUST0388,2026-05-21,Karachi,Gulshan-e-Iqbal,Chinese,Cloud Kitchen,Wallet,1430,68,3,No
+ORD00389,CUST0389,2026-06-04,Karachi,North Nazimabad,Burgers,Cloud Kitchen,Wallet,830,28,4,No
+ORD00390,CUST0390,2026-05-20,Karachi,DHA,Pizza,Cloud Kitchen,Wallet,1860,35,3,No
+ORD00391,CUST0391,2026-05-14,Karachi,Gulshan-e-Iqbal,Burgers,Fast Food,Card,820,35,4,No
+ORD00392,CUST0392,2026-05-08,Rawalpindi,Bahria Rawalpindi,Desi,Casual Dining,E-Wallet,1290,55,2,No
+ORD00393,CUST0393,2026-05-28,Lahore,DHA Lahore,Pizza,Fast Food,Wallet,1950,40,2,Yes
+ORD00394,CUST0394,2026-05-18,Karachi,Clifton,Beverages,Cloud Kitchen,Wallet,470,44,5,No
+ORD00395,CUST0395,2026-06-01,Lahore,Johar Town,Desi,Cloud Kitchen,Cash,1210,21,5,No
+ORD00396,CUST0396,2026-06-08,Karachi,North Nazimabad,Chinese,Casual Dining,Card,1390,63,4,No
+ORD00397,CUST0397,2026-05-24,Rawalpindi,Bahria Rawalpindi,Pizza,Cloud Kitchen,Cash,1450,25,5,Yes
+ORD00398,CUST0398,2026-05-15,Karachi,PECHS,Chinese,Casual Dining,Cash,1330,30,4,Yes
+ORD00399,CUST0399,2026-05-30,Karachi,North Nazimabad,Beverages,Cafe,Card,630,27,5,No
+ORD00400,CUST0400,2026-05-11,Karachi,DHA,Bakery,Bakery,Cash,490,60,4,No
+ORD00401,CUST0401,2026-05-19,Lahore,DHA Lahore,Desi,Casual Dining,Card,1670,65,4,No
+ORD00402,CUST0402,2026-06-01,Islamabad,G-11,Pizza,Cloud Kitchen,Cash,1770,40,5,Yes
+ORD00403,CUST0403,2026-06-14,Karachi,Gulshan-e-Iqbal,Pizza,Cloud Kitchen,Cash,1250,28,4,No
+ORD00404,CUST0404,2026-05-06,Karachi,Gulistan-e-Johar,Bakery,Bakery,Cash,480,37,4,No
+ORD00405,CUST0405,2026-05-23,Lahore,Wapda Town,Beverages,Cafe,Cash,350,34,4,Yes
+ORD00406,CUST0406,2026-05-25,Lahore,Johar Town,Healthy,Cafe,Card,1360,21,5,No
+ORD00407,CUST0407,2026-05-16,Karachi,Gulistan-e-Johar,Desi,Casual Dining,Card,1270,30,3,Yes
+ORD00408,CUST0408,2026-06-08,Islamabad,Blue Area,Desi,Cloud Kitchen,CARD,1770,44,5,No
+ORD00409,CUST0409,2026-05-19,Karachi,DHA,Chinese,Casual Dining,Cash,1980,26,5,Yes
+ORD00410,CUST0410,2026-06-10,Karachi,PECHS,Pizza,Cloud Kitchen,Cash,1450,58,4,No
+ORD00411,CUST0411,2026-05-26,Lahore,Gulberg,Pizza,Fast Food,Wallet,1160,44,4,Yes
+ORD00412,CUST0412,2026-06-01,Karachi,Gulshan-e-Iqbal,Pizza,Cloud Kitchen,Cash,1480,36,5,No
+ORD00413,CUST0413,2026-05-02,Karachi,PECHS,Pizza,Fast Food,Card,1140,41,4,No
+ORD00414,CUST0414,2026-05-30,Islamabad,I-8,Pizza,Fast Food,Cash,1430,21,3,No
+ORD00415,CUST0415,2026-05-09,Islamabad,Bahria Town ISB,Pizza,Fast Food,Wallet,950,28,4,No
+ORD00416,CUST0416,2026-06-14,Karachi,North Nazimabad,Pizza,Cloud Kitchen,Wallet,2170,55,5,Yes
+ORD00417,CUST0417,2026-06-06,Karachi,DHA,Desi,Cloud Kitchen,Cash,1390,26,4,No
+ORD00418,CUST0418,2026-05-30,Karachi,Gulshan-e-Iqbal,Burgers,Cloud Kitchen,Wallet,600,41,5,No
+ORD00419,CUST0419,2026-06-08,Lahore,DHA Lahore,Burgers,Fast Food,Wallet,810,43,4,No
+ORD00420,CUST0420,2026-06-13,Karachi,PECHS,Beverages,Cloud Kitchen,Wallet,510,30,4,No
+ORD00421,CUST0335,2026-05-09,Rawalpindi,Bahria Rawalpindi,Pizza,Casual Dining,Wallet,1140,33,3,Yes
+ORD00422,CUST0400,2026-06-07,Karachi,North Nazimabad,Burgers,Fast Food,Wallet,960,19,5,Yes
+ORD00423,CUST0223,2026-05-24,Islamabad,Blue Area,Burgers,Fast Food,Wallet,1050,27,5,Yes
+ORD00424,CUST0313,2026-06-04,Karachi,Clifton,Desi,Fast Food,Card,1480,30,3,No
+ORD00425,CUST0107,2026-05-10,Lahore,Wapda Town,Beverages,Cafe,Wallet,570,37,3,Yes
+ORD00426,CUST0333,2026-06-06,Islamabad,I-8,Bakery,Bakery,Cash,620,43,2,Yes
+ORD00427,CUST0349,2026-05-18,Karachi,Clifton,Burgers,Fast Food,Card,710,69,5,Yes
+ORD00428,CUST0098,2026-06-06,Karachi,North Nazimabad,Desi,Casual Dining,Card,1300,47,1,Yes
+ORD00429,CUST0349,2026-05-13,Karachi,North Nazimabad,Healthy,Cloud Kitchen,Wallet,1370,32,5,No
+ORD00430,CUST0186,2026-06-03,Karachi,Clifton,Chinese,Cloud Kitchen,Cash,1080,21,5,No
+ORD00431,CUST0186,2026-05-13,Lahore,Model Town,Chinese,Casual Dining,Cash,1030,41,4,No
+ORD00432,CUST0174,2026-05-11,Lahore,Wapda Town,Beverages,Cloud Kitchen,Card,580,38,4,Yes
+ORD00433,CUST0343,2026-06-02,Karachi,Gulistan-e-Johar,Desi,Casual Dining,Card,1110,27,4,Yes
+ORD00434,CUST0101,2026-06-04,Lahore,Wapda Town,Desi,Casual Dining,Cash,1250,51,2,No
+ORD00435,CUST0120,2026-06-12,Karachi,Clifton,Burgers,Fast Food,Cash,890,36,3,Yes
+ORD00436,CUST0049,2026-05-25,Rawalpindi,Saddar,Chinese,Casual Dining,Cash,1970,33,3,No
+ORD00437,CUST0126,2026-06-03,Rawalpindi,Chaklala,Beverages,Cloud Kitchen,Card,700,58,3,Yes
+ORD00438,CUST0138,2026-05-29,Karachi,Clifton,Pizza,Fast Food,Cash,1980,44,4,No
+ORD00439,CUST0202,2026-05-18,Islamabad,I-8,Bakery,Bakery,Card,610,32,5,No
+ORD00440,CUST0185,2026-06-07,Lahore,Wapda Town,Burgers,Cloud Kitchen,Wallet,1440,25,4,No
+ORD00441,CUST0270,2026-05-22,Lahore,Wapda Town,Chinese,Cloud Kitchen,E-Wallet,860,37,4,Yes
+ORD00442,CUST0050,2026-05-04,Karachi,Clifton,Pizza,Casual Dining,Card,1760,36,4,No
+ORD00443,CUST0222,2026-06-14,Karachi,Clifton,Burgers,Fast Food,Card,910,41,3,Yes
+ORD00444,CUST0099,2026-05-02,Lahore,Johar Town,Chinese,Cloud Kitchen,Wallet,1340,35,3,Yes
+ORD00445,CUST0167,2026-05-16,Karachi,Gulshan-e-Iqbal,Desi,Casual Dining,Cash,1630,29,3,Yes
+ORD00446,CUST0196,2026-06-04,Karachi,North Nazimabad,Pizza,Cloud Kitchen,Cash,1530,35,4,Yes
+ORD00447,CUST0225,2026-05-20,Lahore,Gulberg,Desi,Casual Dining,Cash,900,34,4,No
+ORD00448,CUST0062,2026-05-22,Rawalpindi,Bahria Rawalpindi,Healthy,Cloud Kitchen,cash,870,56,4,Yes
+ORD00449,CUST0293,2026-05-15,Rawalpindi,Saddar,Healthy,Casual Dining,Cash,1280,66,4,No
+ORD00450,CUST0184,2026-05-28,Rawalpindi,Chaklala,Bakery,Bakery,Cash,790,24,4,Yes
+ORD00451,CUST0156,2026-06-01,Lahore,Johar Town,Pizza,Cloud Kitchen,Card,1950,41,3,Yes
+ORD00452,CUST0073,2026-05-02,Karachi,DHA,Bakery,Bakery,Card,850,26,5,Yes
+ORD00453,CUST0190,2026-05-02,Karachi,North Nazimabad,Beverages,Cloud Kitchen,cash,520,37,4,Yes
+ORD00454,CUST0050,2026-06-06,Lahore,Gulberg,Burgers,Fast Food,Card,950,55,3,No
+ORD00455,CUST0016,2026-06-01,Lahore,DHA Lahore,Chinese,Casual Dining,Wallet,2260,30,5,Yes
+ORD00456,CUST0218,2026-05-22,Lahore,Gulberg,Burgers,Fast Food,Cash,1390,41,3,No
+ORD00457,CUST0031,2026-05-24,Lahore,DHA Lahore,Chinese,Cloud Kitchen,Cash,1600,45,4,No
+ORD00458,CUST0166,2026-06-08,Karachi,PECHS,Beverages,Cafe,cash,390,30,4,No
+ORD00459,CUST0141,2026-05-15,Karachi,Gulshan-e-Iqbal,Burgers,Fast Food,Wallet,900,33,5,Yes
+ORD00460,CUST0225,2026-05-01,Islamabad,Bahria Town ISB,Burgers,Cloud Kitchen,Card,730,22,5,No
+ORD00461,CUST0401,2026-06-05,Karachi,North Nazimabad,Pizza,Fast Food,Card,1520,69,3,No
+ORD00462,CUST0197,2026-06-09,Rawalpindi,Chaklala,Beverages,Fast Food,CARD,650,43,3,Yes
+ORD00463,CUST0094,2026-06-06,Lahore,Model Town,Pizza,Fast Food,Cash,1000,22,5,No
+ORD00464,CUST0319,2026-06-14,Karachi,PECHS,Desi,Casual Dining,Card,1860,72,5,No
+ORD00465,CUST0327,2026-05-14,Lahore,Johar Town,Healthy,Cloud Kitchen,Card,1470,32,2,No
+ORD00466,CUST0299,2026-06-01,Lahore,Johar Town,Chinese,Casual Dining,Cash,1340,39,3,No
+ORD00467,CUST0068,2026-06-10,Karachi,PECHS,Beverages,Cloud Kitchen,Cash,490,39,4,Yes
+ORD00468,CUST0337,2026-05-16,Islamabad,I-8,Burgers,Cloud Kitchen,Cash,970,21,5,No
+ORD00469,CUST0064,2026-06-02,Lahore,Wapda Town,Pizza,Fast Food,Card,2030,25,5,No
+ORD00470,CUST0163,2026-05-19,Karachi,Gulistan-e-Johar,Desi,Casual Dining,Wallet,1530,39,4,No
+ORD00471,CUST0245,2026-05-27,Rawalpindi,Bahria Rawalpindi,Pizza,Fast Food,Cash,2020,29,5,Yes
+ORD00472,CUST0318,2026-05-19,Karachi,Clifton,Pizza,Casual Dining,Card,1330,45,4,No
+ORD00473,CUST0093,2026-05-25,Lahore,Gulberg,Pizza,Casual Dining,Cash,1040,45,5,No
+ORD00474,CUST0177,2026-05-06,Rawalpindi,Saddar,Healthy,Cloud Kitchen,Card,1280,41,4,No
+ORD00475,CUST0241,2026-05-04,Islamabad,Blue Area,Beverages,Cloud Kitchen,Wallet,670,28,5,Yes
+ORD00476,CUST0047,2026-06-02,Karachi,Gulistan-e-Johar,Burgers,Fast Food,Cash,810,59,4,No
+ORD00477,CUST0175,2026-05-07,Rawalpindi,Chaklala,Desi,Casual Dining,Card,2030,70,1,No
+ORD00478,CUST0115,2026-06-05,Karachi,Gulshan-e-Iqbal,Pizza,Fast Food,Cash,1870,34,5,No
+ORD00479,CUST0169,2026-06-12,Rawalpindi,Satellite Town,Burgers,Cloud Kitchen,Cash,960,55,1,No
+ORD00480,CUST0334,2026-05-09,Lahore,Wapda Town,Bakery,Bakery,Cash,570,20,5,No
+ORD00481,CUST0409,2026-05-10,Karachi,Gulshan-e-Iqbal,Desi,Casual Dining,Card,1840,25,5,Yes
+ORD00482,CUST0242,2026-05-10,Rawalpindi,Satellite Town,Chinese,Fast Food,Card,1880,41,5,No
+ORD00483,CUST0043,2026-05-17,Karachi,Gulistan-e-Johar,Beverages,Fast Food,Card,500,36,4,Yes
+ORD00484,CUST0320,2026-05-20,Karachi,Clifton,Chinese,Casual Dining,Wallet,1220,39,2,No
+ORD00485,CUST0088,2026-05-19,Lahore,Gulberg,Desi,Casual Dining,Card,1330,42,4,No
+ORD00486,CUST0395,2026-05-16,Karachi,Clifton,Pizza,Fast Food,Card,1600,54,4,Yes
+ORD00487,CUST0143,2026-05-11,Karachi,Clifton,Pizza,Fast Food,cash,960,36,4,Yes
+ORD00488,CUST0414,2026-05-09,Karachi,North Nazimabad,Desi,Cloud Kitchen,Wallet,1360,30,4,No
+ORD00489,CUST0259,2026-05-08,Islamabad,G-11,Chinese,Cloud Kitchen,Wallet,1410,41,4,No
+ORD00490,CUST0377,2026-05-20,Karachi,Gulshan-e-Iqbal,Desi,Casual Dining,Cash,1530,19,3,Yes
+ORD00491,CUST0122,2026-05-01,Islamabad,G-11,Bakery,Bakery,Wallet,750,20,4,No
+ORD00492,CUST0197,2026-05-10,Lahore,Johar Town,Burgers,Fast Food,Card,820,23,5,No
+ORD00493,CUST0173,2026-05-19,Karachi,North Nazimabad,Desi,Cloud Kitchen,Cash,1140,43,4,No
+ORD00494,CUST0108,2026-06-09,Karachi,PECHS,Desi,Casual Dining,Wallet,2110,38,4,No
+ORD00495,CUST0353,2026-06-11,Karachi,Gulistan-e-Johar,Desi,Casual Dining,Card,1350,42,5,No
+ORD00496,CUST0232,2026-05-24,Islamabad,I-8,Burgers,Fast Food,Card,1150,27,4,No
+ORD00497,CUST0098,2026-05-18,Islamabad,Bahria Town ISB,Chinese,Casual Dining,Wallet,1660,40,4,No
+ORD00498,CUST0366,2026-05-03,Karachi,DHA,Desi,Casual Dining,Cash,1940,52,1,No
+ORD00499,CUST0283,2026-05-25,Karachi,North Nazimabad,Healthy,Cloud Kitchen,Cash,1140,27,4,No
+ORD00500,CUST0263,2026-05-25,Rawalpindi,Saddar,Desi,Casual Dining,Wallet,1060,52,2,Yes
+ORD00501,CUST0204,2026-06-10,Karachi,PECHS,Bakery,Bakery,Card,410,43,4,Yes
+ORD00502,CUST0071,2026-05-29,Karachi,Gulshan-e-Iqbal,Healthy,Cloud Kitchen,Card,770,37,4,Yes
+ORD00503,CUST0357,2026-06-11,Rawalpindi,Bahria Rawalpindi,Healthy,Cafe,Card,710,35,5,Yes
+ORD00504,CUST0194,2026-05-23,Lahore,Wapda Town,Pizza,Fast Food,Cash,1740,42,3,Yes
+ORD00505,CUST0245,2026-05-27,Lahore,Johar Town,Chinese,Casual Dining,Card,1580,43,3,No
+ORD00506,CUST0106,2026-06-07,Lahore,DHA Lahore,Pizza,Casual Dining,Card,1960,26,4,No
+ORD00507,CUST0095,2026-06-01,Lahore,Model Town,Desi,Casual Dining,Cash,960,20,5,Yes
+ORD00508,CUST0052,2026-05-03,Lahore,Wapda Town,Healthy,Cloud Kitchen,Card,940,40,4,Yes
+ORD00509,CUST0055,2026-05-17,Karachi,North Nazimabad,Bakery,Bakery,Card,380,24,4,No
+ORD00510,CUST0394,2026-06-12,Karachi,Clifton,Chinese,Casual Dining,Card,2140,42,4,No
+ORD00511,CUST0029,2026-05-15,Karachi,Gulshan-e-Iqbal,Desi,Casual Dining,Card,930,37,5,Yes
+ORD00512,CUST0356,2026-06-14,Lahore,Johar Town,Pizza,Fast Food,Card,1950,38,3,No
+ORD00513,CUST0029,2026-06-12,Rawalpindi,Bahria Rawalpindi,Burgers,Fast Food,Card,1180,42,4,No
+ORD00514,CUST0331,2026-05-10,Karachi,PECHS,Desi,Cloud Kitchen,Cash,1800,20,5,No
+ORD00515,CUST0105,2026-06-05,Lahore,Model Town,Burgers,Fast Food,Card,760,39,5,Yes
+ORD00516,CUST0252,2026-06-15,Lahore,DHA Lahore,Beverages,Cloud Kitchen,Wallet,740,35,3,No
+ORD00517,CUST0312,2026-06-14,Lahore,DHA Lahore,Desi,Casual Dining,Card,1620,61,3,Yes
+ORD00518,CUST0105,2026-05-17,Lahore,Gulberg,Desi,Casual Dining,Cash,1890,20,4,No
+ORD00519,CUST0031,2026-06-07,Karachi,North Nazimabad,Bakery,Bakery,Card,460,34,4,Yes
+ORD00520,CUST0324,2026-06-13,Karachi,North Nazimabad,Bakery,Bakery,Cash,740,22,4,Yes
+ORD00521,CUST0262,2026-06-09,Karachi,Clifton,Bakery,Bakery,Wallet,680,59,3,Yes
+ORD00522,CUST0202,2026-06-07,Karachi,PECHS,Beverages,Fast Food,Cash,650,44,4,No
+ORD00523,CUST0057,2026-05-27,Rawalpindi,Satellite Town,Desi,Cloud Kitchen,Wallet,880,46,5,Yes
+ORD00524,CUST0087,2026-05-30,Karachi,Clifton,Desi,Casual Dining,Card,870,19,4,No
+ORD00525,CUST0140,2026-05-06,Karachi,North Nazimabad,Healthy,Cloud Kitchen,Card,1580,63,4,No
+ORD00526,CUST0137,2026-05-28,Karachi,DHA,Desi,Casual Dining,Wallet,1060,24,4,Yes
+ORD00527,CUST0091,2026-05-30,Lahore,Johar Town,Chinese,Casual Dining,Card,1620,34,4,No
+ORD00528,CUST0183,2026-06-02,Karachi,Gulshan-e-Iqbal,Chinese,Casual Dining,Cash,1210,71,4,No
+ORD00529,CUST0306,2026-06-10,Lahore,Model Town,Bakery,Bakery,Card,880,45,3,Yes
+ORD00530,CUST0183,2026-05-24,Karachi,North Nazimabad,Bakery,Bakery,Cash,530,58,2,No
+ORD00531,CUST0413,2026-06-11,Karachi,North Nazimabad,Pizza,Cloud Kitchen,Cash,2090,18,4,No
+ORD00532,CUST0030,2026-05-06,Lahore,DHA Lahore,Pizza,Fast Food,Card,1120,21,5,No
+ORD00533,CUST0312,2026-05-01,Islamabad,Bahria Town ISB,Bakery,Bakery,Cash,360,42,5,No
+ORD00534,CUST0290,2026-05-29,Lahore,Gulberg,Pizza,Cloud Kitchen,Card,980,22,5,No
+ORD00535,CUST0333,2026-06-08,Karachi,Gulshan-e-Iqbal,Chinese,Casual Dining,Wallet,2300,34,5,No
+ORD00536,CUST0302,2026-05-27,Islamabad,Blue Area,Chinese,Cloud Kitchen,Cash,1940,25,5,No
+ORD00537,CUST0120,2026-05-06,Lahore,Gulberg,Pizza,Casual Dining,Cash,1920,42,4,No
+ORD00538,CUST0116,2026-05-30,Karachi,Clifton,Bakery,Bakery,Cash,620,35,4,Yes
+ORD00539,CUST0004,2026-05-23,Karachi,Clifton,Chinese,Fast Food,Wallet,1720,63,4,No
+ORD00540,CUST0173,2026-05-02,Karachi,PECHS,Beverages,Cafe,Wallet,410,18,5,No
+ORD00541,CUST0090,2026-05-15,Islamabad,I-8,Bakery,Bakery,Wallet,410,66,4,No
+ORD00542,CUST0077,2026-06-11,Karachi,PECHS,Beverages,Cafe,Cash,510,37,4,No
+ORD00543,CUST0163,2026-06-14,Karachi,Gulistan-e-Johar,Desi,Casual Dining,Cash,880,42,3,No
+ORD00544,CUST0102,2026-06-15,Karachi,Clifton,Burgers,Cloud Kitchen,Wallet,1330,72,2,No
+ORD00545,CUST0272,2026-05-06,Karachi,DHA,Chinese,Casual Dining,Wallet,1000,41,4,No
+ORD00546,CUST0410,2026-06-13,Karachi,Clifton,Burgers,Cloud Kitchen,Cash,680,31,3,No
+ORD00547,CUST0064,2026-06-06,Karachi,PECHS,Pizza,Casual Dining,Card,2270,52,4,No
+ORD00548,CUST0175,2026-05-16,Karachi,DHA,Burgers,Cloud Kitchen,Card,1370,21,5,No
+ORD00549,CUST0077,2026-06-05,Lahore,Johar Town,Chinese,Cloud Kitchen,Cash,1550,24,4,No
+ORD00550,CUST0176,2026-05-11,Rawalpindi,Satellite Town,Desi,Casual Dining,Wallet,1200,24,3,No
+ORD00551,CUST0028,2026-05-09,Karachi,Gulshan-e-Iqbal,Beverages,Cafe,Card,700,28,5,Yes
+ORD00552,CUST0315,2026-05-12,Karachi,DHA,Burgers,Cloud Kitchen,Cash,1000,23,4,No
+ORD00553,CUST0217,2026-06-04,Karachi,Clifton,Burgers,Cloud Kitchen,CARD,610,38,4,No
+ORD00554,CUST0037,2026-05-05,Karachi,Clifton,Pizza,Fast Food,Cash,1660,27,5,No
+ORD00555,CUST0016,2026-05-31,Karachi,DHA,Pizza,Fast Food,Card,1200,41,4,Yes
+ORD00556,CUST0371,2026-05-29,Islamabad,Blue Area,Pizza,Fast Food,Card,1600,43,5,No
+ORD00557,CUST0146,2026-06-15,Karachi,North Nazimabad,Desi,Casual Dining,Cash,1870,33,5,No
+ORD00558,CUST0354,2026-05-12,Islamabad,F-10,Desi,Casual Dining,Cash,1220,35,5,No
+ORD00559,CUST0151,2026-05-07,Islamabad,Blue Area,Bakery,Bakery,Wallet,840,26,4,No
+ORD00560,CUST0404,2026-06-13,Rawalpindi,Bahria Rawalpindi,Beverages,Cloud Kitchen,Cash,420,45,4,Yes
+ORD00561,CUST0384,2026-05-19,Karachi,Gulshan-e-Iqbal,Desi,Casual Dining,Cash,1820,50,3,Yes
+ORD00562,CUST0222,2026-05-31,Lahore,Gulberg,Healthy,Cafe,Card,720,29,4,Yes
+ORD00563,CUST0166,2026-05-07,Lahore,Wapda Town,Pizza,Casual Dining,Cash,1070,26,4,Yes
+ORD00564,CUST0121,2026-05-06,Lahore,DHA Lahore,Chinese,Casual Dining,Wallet,1570,38,3,Yes
+ORD00565,CUST0039,2026-05-13,Karachi,North Nazimabad,Bakery,Cafe,Cash,480,49,3,Yes
+ORD00566,CUST0353,2026-05-23,Karachi,North Nazimabad,Bakery,Bakery,Cash,420,50,4,Yes
+ORD00567,CUST0084,2026-06-07,Islamabad,G-11,Pizza,Casual Dining,Wallet,1260,42,3,No
+ORD00568,CUST0218,2026-06-02,Lahore,Model Town,Beverages,Cafe,Cash,570,50,2,Yes
+ORD00569,CUST0409,2026-05-08,Lahore,Johar Town,Healthy,Cafe,Card,1290,30,3,Yes
+ORD00570,CUST0327,2026-05-09,Lahore,Gulberg,Beverages,Cloud Kitchen,Cash,570,18,5,Yes
+ORD00571,CUST0412,2026-05-12,Islamabad,F-10,Pizza,Fast Food,Cash,1620,69,4,No
+ORD00572,CUST0220,2026-05-19,Karachi,Clifton,Bakery,Bakery,Card,720,39,4,Yes
+ORD00573,CUST0091,2026-06-03,Rawalpindi,Saddar,Beverages,Cloud Kitchen,Wallet,440,36,3,No
+ORD00574,CUST0028,2026-05-12,Rawalpindi,Saddar,Chinese,Cloud Kitchen,Cash,1430,42,5,Yes
+ORD00575,CUST0121,2026-05-06,Karachi,DHA,Burgers,Fast Food,Wallet,1000,44,5,No
+ORD00576,CUST0153,2026-05-29,Karachi,North Nazimabad,Beverages,Cloud Kitchen,Card,390,36,4,Yes
+ORD00577,CUST0152,2026-05-03,Karachi,Gulshan-e-Iqbal,Beverages,Cafe,Card,370,29,5,No
+ORD00578,CUST0297,2026-05-13,Karachi,North Nazimabad,Pizza,Fast Food,Card,1440,38,3,No
+ORD00579,CUST0050,2026-05-19,Karachi,Clifton,Chinese,Cloud Kitchen,Card,980,46,4,Yes
+ORD00580,CUST0367,2026-05-17,Islamabad,Blue Area,Healthy,Cafe,E-Wallet,880,50,2,Yes
+ORD00581,CUST0299,2026-05-24,Karachi,DHA,Desi,Casual Dining,Wallet,1710,40,3,Yes
+ORD00582,CUST0289,2026-05-24,Karachi,Gulshan-e-Iqbal,Burgers,Cloud Kitchen,Cash,860,52,2,No
+ORD00583,CUST0258,2026-05-27,Lahore,Model Town,Pizza,Casual Dining,Card,1520,44,5,Yes
+ORD00584,CUST0348,2026-05-13,Lahore,Gulberg,Beverages,Cloud Kitchen,Cash,640,35,5,Yes
+ORD00585,CUST0332,2026-06-09,Karachi,DHA,Burgers,Fast Food,Cash,1290,36,3,Yes
+ORD00586,CUST0108,2026-06-12,Lahore,Johar Town,Chinese,Casual Dining,Cash,2010,22,5,Yes
+ORD00587,CUST0116,2026-05-31,Rawalpindi,Satellite Town,Bakery,Cafe,Card,500,51,4,No
+ORD00588,CUST0164,2026-06-11,Karachi,Gulistan-e-Johar,Desi,Casual Dining,Card,1930,39,4,Yes
+ORD00589,CUST0160,2026-06-01,Karachi,DHA,Desi,Casual Dining,Cash,1610,26,3,No
+ORD00590,CUST0261,2026-05-10,Karachi,Clifton,Desi,Fast Food,Cash,700,31,3,No
+ORD00591,CUST0369,2026-05-06,Rawalpindi,Bahria Rawalpindi,Burgers,Fast Food,Cash,1050,35,5,No
+ORD00592,CUST0110,2026-06-09,Lahore,Model Town,Chinese,Casual Dining,Wallet,920,36,5,Yes
+ORD00593,CUST0316,2026-05-15,Lahore,Johar Town,Beverages,Cloud Kitchen,Wallet,390,24,4,No
+ORD00594,CUST0405,2026-05-17,Islamabad,G-11,Beverages,Cafe,Wallet,420,68,2,No
+ORD00595,CUST0403,2026-05-21,Karachi,DHA,Desi,Cloud Kitchen,Cash,1080,66,3,No
+ORD00596,CUST0106,2026-05-09,Islamabad,Bahria Town ISB,Desi,Casual Dining,Cash,1830,49,3,Yes
+ORD00597,CUST0325,2026-06-14,Islamabad,F-10,Burgers,Fast Food,Cash,810,43,3,Yes
+ORD00598,CUST0408,2026-05-29,Islamabad,Blue Area,Bakery,Bakery,Card,480,39,2,No
+ORD00599,CUST0368,2026-05-29,Karachi,Gulshan-e-Iqbal,Desi,Cloud Kitchen,Cash,1640,36,3,No
+ORD00600,CUST0294,2026-05-23,Karachi,Gulistan-e-Johar,Desi,Casual Dining,Cash,1780,35,4,Yes
+ORD00601,CUST0037,2026-05-27,Karachi,North Nazimabad,Desi,Cloud Kitchen,Cash,930,56,3,No
+ORD00602,CUST0367,2026-05-02,Rawalpindi,Bahria Rawalpindi,Chinese,Casual Dining,Cash,1460,51,2,No
+ORD00603,CUST0142,2026-05-23,Lahore,Wapda Town,Chinese,Casual Dining,Card,1450,18,5,No
+ORD00604,CUST0230,2026-05-23,Rawalpindi,Chaklala,Beverages,Fast Food,Cash,330,41,3,No
+ORD00605,CUST0212,2026-05-10,Lahore,DHA Lahore,Desi,Casual Dining,Cash,1850,26,4,No
+ORD00606,CUST0114,2026-06-07,Karachi,PECHS,Pizza,Casual Dining,Cash,1210,69,2,Yes
+ORD00607,CUST0251,2026-06-07,Karachi,Gulshan-e-Iqbal,Burgers,Cloud Kitchen,Cash,1220,43,5,No
+ORD00608,CUST0368,2026-06-14,Islamabad,I-8,Burgers,Fast Food,Card,1190,25,5,Yes
+ORD00609,CUST0084,2026-06-07,Islamabad,I-8,Chinese,Cloud Kitchen,Wallet,1490,70,4,No
+ORD00610,CUST0008,2026-05-24,Rawalpindi,Satellite Town,Desi,Fast Food,Card,1590,37,4,Yes
+ORD00611,CUST0096,2026-05-22,Rawalpindi,Chaklala,Pizza,Casual Dining,Wallet,1110,38,4,Yes
+ORD00612,CUST0108,2026-05-23,Lahore,Wapda Town,Chinese,Casual Dining,Cash,1740,31,3,Yes
+ORD00613,CUST0038,2026-06-14,Lahore,DHA Lahore,Bakery,Bakery,Card,390,60,4,No
+ORD00614,CUST0105,2026-05-12,Rawalpindi,Satellite Town,Burgers,Cloud Kitchen,Wallet,770,18,5,No
+ORD00615,CUST0147,2026-05-16,Karachi,PECHS,Chinese,Casual Dining,Card,1570,68,3,No
+ORD00616,CUST0173,2026-06-12,Lahore,Model Town,Burgers,Fast Food,Wallet,1260,18,5,No
+ORD00617,CUST0245,2026-06-08,Lahore,Gulberg,Desi,Cloud Kitchen,Wallet,1250,30,4,Yes
+ORD00618,CUST0344,2026-05-24,Karachi,Clifton,Pizza,Fast Food,Cash,830,18,5,Yes
+ORD00619,CUST0345,2026-05-08,Karachi,PECHS,Chinese,Fast Food,Cash,1510,61,3,No
+ORD00620,CUST0062,2026-05-17,Karachi,Gulshan-e-Iqbal,Desi,Casual Dining,Cash,1550,19,3,No
+ORD00621,CUST0272,2026-06-06,Lahore,Wapda Town,Desi,Casual Dining,Wallet,1690,31,4,No
+ORD00622,CUST0254,2026-06-13,Karachi,Gulshan-e-Iqbal,Beverages,Cafe,Card,520,36,5,No
+ORD00623,CUST0163,2026-05-02,Islamabad,F-10,Bakery,Bakery,Cash,750,23,4,No
+ORD00624,CUST0102,2026-05-10,Rawalpindi,Satellite Town,Desi,Cloud Kitchen,Wallet,1290,20,5,Yes
+ORD00625,CUST0328,2026-06-05,Karachi,PECHS,Desi,Casual Dining,Cash,1310,40,3,Yes
+ORD00626,CUST0226,2026-05-23,Karachi,North Nazimabad,Pizza,Casual Dining,Card,1040,28,5,Yes
+ORD00627,CUST0043,2026-05-05,Karachi,DHA,Chinese,Casual Dining,Card,1560,55,4,No
+ORD00628,CUST0201,2026-05-02,Islamabad,G-11,Burgers,Cloud Kitchen,Cash,640,41,5,No
+ORD00629,CUST0077,2026-05-10,Islamabad,G-11,Desi,Casual Dining,Cash,1230,40,4,No
+ORD00630,CUST0274,2026-05-02,Karachi,Gulshan-e-Iqbal,Chinese,Casual Dining,Cash,1430,25,4,Yes
+ORD00631,CUST0017,2026-06-01,Karachi,PECHS,Burgers,Cloud Kitchen,Cash,780,32,3,Yes
+ORD00632,CUST0016,2026-05-17,Karachi,Gulshan-e-Iqbal,Healthy,Cafe,Card,1280,26,4,No
+ORD00633,CUST0052,2026-06-04,Islamabad,Bahria Town ISB,Beverages,Cloud Kitchen,Wallet,510,23,4,No
+ORD00634,CUST0402,2026-06-13,Rawalpindi,Bahria Rawalpindi,Desi,Casual Dining,Card,900,25,5,Yes
+ORD00635,CUST0274,2026-05-21,Islamabad,I-8,Beverages,Cafe,Cash,450,37,4,Yes
+ORD00636,CUST0055,2026-05-31,Lahore,Johar Town,Healthy,Cafe,Card,1330,39,3,No
+ORD00637,CUST0111,2026-05-15,Karachi,Clifton,Burgers,Cloud Kitchen,Cash,880,20,5,Yes
+ORD00638,CUST0002,2026-05-23,Karachi,Clifton,Pizza,Casual Dining,E-Wallet,1670,20,5,No
+ORD00639,CUST0216,2026-05-21,Karachi,Clifton,Beverages,Cafe,Cash,300,32,5,No
+ORD00640,CUST0173,2026-05-16,Karachi,DHA,Bakery,Bakery,Cash,620,32,3,Yes
+ORD00641,CUST0366,2026-05-19,Lahore,Model Town,Healthy,Casual Dining,Wallet,1510,18,4,Yes
+ORD00642,CUST0066,2026-05-26,Lahore,Wapda Town,Burgers,Fast Food,Wallet,1350,40,3,No
+ORD00643,CUST0221,2026-05-17,Lahore,Johar Town,Bakery,Cafe,Wallet,380,19,3,Yes
+ORD00644,CUST0181,2026-06-07,Rawalpindi,Bahria Rawalpindi,Beverages,Cloud Kitchen,Card,370,66,4,Yes
+ORD00645,CUST0235,2026-05-12,Islamabad,Bahria Town ISB,Chinese,Cloud Kitchen,Wallet,1920,41,3,Yes
+ORD00646,CUST0110,2026-05-08,Lahore,DHA Lahore,Burgers,Cloud Kitchen,Card,1170,47,2,Yes
+ORD00647,CUST0047,2026-05-08,Lahore,Johar Town,Pizza,Cloud Kitchen,Card,1730,22,5,No
+ORD00648,CUST0321,2026-06-03,Lahore,Gulberg,Burgers,Cloud Kitchen,Cash,760,38,3,Yes
+ORD00649,CUST0066,2026-05-28,Karachi,DHA,Burgers,Cloud Kitchen,Card,1260,26,3,No
+ORD00650,CUST0317,2026-05-27,Karachi,DHA,Burgers,Cloud Kitchen,Card,920,36,4,Yes
+ORD00651,CUST0268,2026-06-10,Lahore,Gulberg,Pizza,Casual Dining,Cash,1000,28,4,Yes
+ORD00652,CUST0013,2026-05-05,Lahore,Wapda Town,Pizza,Fast Food,Wallet,1450,30,5,No
+ORD00653,CUST0023,2026-05-03,Karachi,North Nazimabad,Burgers,Fast Food,Wallet,790,38,2,Yes
+ORD00654,CUST0050,2026-06-13,Karachi,North Nazimabad,Desi,Casual Dining,Cash,1690,26,3,Yes
+ORD00655,CUST0302,2026-05-11,Karachi,DHA,Bakery,Bakery,Wallet,640,71,2,No
+ORD00656,CUST0185,2026-05-02,Karachi,North Nazimabad,Desi,Cloud Kitchen,Wallet,1010,34,5,Yes
+ORD00657,CUST0307,2026-05-01,Karachi,PECHS,Burgers,Cloud Kitchen,Cash,910,42,2,Yes
+ORD00658,CUST0097,2026-06-09,Lahore,Johar Town,Beverages,Cafe,Wallet,710,41,3,Yes
+ORD00659,CUST0166,2026-06-02,Karachi,North Nazimabad,Pizza,Fast Food,Card,860,24,5,Yes
+ORD00660,CUST0333,2026-06-04,Lahore,Gulberg,Pizza,Fast Food,Card,1330,49,4,No
+ORD00661,CUST0171,2026-05-26,Karachi,Gulshan-e-Iqbal,Pizza,Fast Food,Card,1800,67,4,Yes
+ORD00662,CUST0271,2026-05-15,Rawalpindi,Chaklala,Burgers,Fast Food,Card,640,51,3,No
+ORD00663,CUST0044,2026-06-04,Lahore,Johar Town,Desi,Casual Dining,Cash,1380,39,5,No
+ORD00664,CUST0409,2026-05-22,Islamabad,F-10,Desi,Casual Dining,Cash,1050,23,3,No
+ORD00665,CUST0190,2026-05-31,Lahore,Johar Town,Burgers,Fast Food,Cash,740,36,4,No
+ORD00666,CUST0200,2026-05-18,Karachi,North Nazimabad,Desi,Casual Dining,Cash,1380,39,4,No
+ORD00667,CUST0254,2026-05-23,Karachi,DHA,Desi,Casual Dining,Cash,1460,40,3,Yes
+ORD00668,CUST0057,2026-05-11,Islamabad,G-11,Beverages,Fast Food,Cash,530,31,5,No
+ORD00669,CUST0320,2026-06-14,Lahore,Johar Town,Burgers,Cloud Kitchen,Cash,940,24,4,Yes
+ORD00670,CUST0045,2026-06-01,Karachi,Gulshan-e-Iqbal,Bakery,Bakery,Wallet,780,40,5,No
+ORD00671,CUST0113,2026-05-23,Karachi,Gulshan-e-Iqbal,Pizza,Fast Food,Cash,1790,61,2,No
+ORD00672,CUST0098,2026-05-12,Lahore,Johar Town,Pizza,Casual Dining,Card,1630,26,4,Yes
+ORD00673,CUST0341,2026-05-12,Karachi,Gulistan-e-Johar,Chinese,Cloud Kitchen,Card,2000,22,5,Yes
+ORD00674,CUST0018,2026-05-25,Karachi,PECHS,Pizza,Cloud Kitchen,Wallet,960,36,4,No
+ORD00675,CUST0257,2026-05-23,Karachi,Gulistan-e-Johar,Pizza,Casual Dining,Card,1590,40,3,No
+ORD00676,CUST0397,2026-05-08,Karachi,Gulshan-e-Iqbal,Pizza,Fast Food,Cash,1250,26,5,No
+ORD00677,CUST0376,2026-05-30,Karachi,Gulistan-e-Johar,Bakery,Cafe,Cash,810,42,5,No
+ORD00678,CUST0351,2026-05-09,Karachi,North Nazimabad,Chinese,Cloud Kitchen,Card,1950,53,3,No
+ORD00679,CUST0090,2026-06-09,Lahore,Johar Town,Burgers,Fast Food,Cash,580,71,5,No
+ORD00680,CUST0345,2026-05-24,Karachi,Gulistan-e-Johar,Chinese,Casual Dining,Card,1260,27,4,Yes
+ORD00681,CUST0070,2026-06-05,Karachi,Gulshan-e-Iqbal,Burgers,Cloud Kitchen,Card,1460,76,3,No
+ORD00682,CUST0098,2026-05-30,Islamabad,I-8,Beverages,Cafe,Cash,710,28,4,No
+ORD00683,CUST0312,2026-05-05,Islamabad,F-10,Healthy,Cloud Kitchen,Cash,960,21,5,No
+ORD00684,CUST0130,2026-06-08,Karachi,PECHS,Chinese,Cloud Kitchen,Cash,1970,25,4,No
+ORD00685,CUST0391,2026-06-13,Rawalpindi,Chaklala,Chinese,Fast Food,Wallet,1860,46,5,No
+ORD00686,CUST0068,2026-05-26,Islamabad,F-10,Desi,Casual Dining,Cash,1770,36,4,No
+ORD00687,CUST0279,2026-06-02,Karachi,Clifton,Chinese,Casual Dining,Card,1490,23,4,Yes
+ORD00688,CUST0146,2026-06-05,Islamabad,I-8,Bakery,Bakery,Card,450,37,3,Yes
+ORD00689,CUST0371,2026-06-11,Karachi,North Nazimabad,Bakery,Bakery,Card,490,41,5,No
+ORD00690,CUST0373,2026-06-09,Karachi,Gulistan-e-Johar,Beverages,Cafe,Wallet,660,32,5,No
+ORD00691,CUST0125,2026-05-11,Islamabad,Blue Area,Pizza,Casual Dining,Wallet,1680,27,5,No
+ORD00692,CUST0036,2026-05-12,Islamabad,Blue Area,Desi,Cloud Kitchen,Cash,1230,54,3,Yes
+ORD00693,CUST0329,2026-06-02,Karachi,DHA,Pizza,Fast Food,Cash,1650,32,5,Yes
+ORD00694,CUST0416,2026-05-20,Lahore,Johar Town,Burgers,Cloud Kitchen,Cash,1290,47,2,No
+ORD00695,CUST0279,2026-06-02,Karachi,Gulshan-e-Iqbal,Healthy,Cafe,Cash,800,58,4,No
+ORD00696,CUST0414,2026-05-05,Karachi,Gulshan-e-Iqbal,Desi,Casual Dining,Cash,1950,29,4,Yes
+ORD00697,CUST0169,2026-05-20,Rawalpindi,Chaklala,Burgers,Fast Food,Card,850,23,4,No
+ORD00698,CUST0300,2026-05-05,Karachi,Clifton,Healthy,Cloud Kitchen,Wallet,1590,22,5,No
+ORD00699,CUST0346,2026-06-13,Islamabad,G-11,Desi,Cloud Kitchen,Card,1720,58,4,Yes
+ORD00700,CUST0313,2026-05-24,Lahore,Gulberg,Burgers,Fast Food,Cash,1360,35,3,No
+ORD00701,CUST0380,2026-05-27,Islamabad,F-10,Beverages,Cafe,Card,650,26,4,Yes
+ORD00702,CUST0259,2026-05-19,Karachi,Clifton,Desi,Casual Dining,Cash,1040,39,2,No
+ORD00703,CUST0208,2026-05-20,Lahore,Gulberg,Chinese,Casual Dining,Wallet,2320,28,4,No
+ORD00704,CUST0161,2026-05-26,Karachi,Gulistan-e-Johar,Chinese,Casual Dining,Cash,2180,66,4,No
+ORD00705,CUST0172,2026-05-16,Karachi,Gulshan-e-Iqbal,Bakery,Bakery,Cash,400,25,3,No
+ORD00706,CUST0286,2026-05-31,Karachi,Gulistan-e-Johar,Chinese,Casual Dining,Cash,1800,41,4,Yes
+ORD00707,CUST0201,2026-05-20,Karachi,DHA,Beverages,Cafe,Card,660,23,5,Yes
+ORD00708,CUST0385,2026-05-21,Karachi,Clifton,Bakery,Bakery,Wallet,360,27,5,Yes
+ORD00709,CUST0126,2026-05-31,Karachi,PECHS,Burgers,Fast Food,Cash,1120,52,3,No
+ORD00710,CUST0098,2026-06-05,Karachi,PECHS,Desi,Casual Dining,Card,1740,33,3,No
+ORD00711,CUST0361,2026-06-05,Rawalpindi,Saddar,Chinese,Cloud Kitchen,Card,1180,67,3,No
+ORD00712,CUST0353,2026-06-10,Karachi,Gulistan-e-Johar,Desi,Casual Dining,Card,1330,41,3,No
+ORD00713,CUST0136,2026-06-01,Islamabad,Blue Area,Desi,Cloud Kitchen,Cash,1200,40,3,No
+ORD00714,CUST0140,2026-05-28,Karachi,Gulshan-e-Iqbal,Bakery,Bakery,Cash,610,34,4,No
+ORD00715,CUST0036,2026-05-03,Lahore,DHA Lahore,Burgers,Cloud Kitchen,Cash,1170,62,5,Yes
+ORD00716,CUST0207,2026-06-08,Karachi,Gulshan-e-Iqbal,Pizza,Fast Food,Wallet,930,19,5,No
+ORD00717,CUST0273,2026-05-09,Karachi,North Nazimabad,Beverages,Cafe,Cash,550,44,5,No
+ORD00718,CUST0161,2026-05-17,Karachi,Gulshan-e-Iqbal,Chinese,Fast Food,Cash,1270,50,2,Yes
+ORD00719,CUST0146,2026-05-08,Karachi,Clifton,Desi,Casual Dining,Wallet,1850,67,4,Yes
+ORD00720,CUST0087,2026-06-13,Lahore,Gulberg,Pizza,Fast Food,Card,1510,42,5,No
+ORD00721,CUST0378,2026-05-14,Islamabad,Blue Area,Pizza,Fast Food,Cash,940,35,4,No
+ORD00722,CUST0148,2026-05-21,Karachi,North Nazimabad,Burgers,Cloud Kitchen,Cash,1010,72,3,No
+ORD00723,CUST0075,2026-05-25,Lahore,DHA Lahore,Healthy,Cloud Kitchen,Wallet,1440,45,4,Yes
+ORD00724,CUST0009,2026-05-19,Karachi,PECHS,Beverages,Cafe,Wallet,490,20,3,No
+ORD00725,CUST0290,2026-06-02,Karachi,North Nazimabad,Burgers,Fast Food,Cash,1100,37,3,Yes
+ORD00726,CUST0153,2026-06-12,Karachi,Gulistan-e-Johar,Burgers,Cloud Kitchen,Wallet,660,34,4,Yes
+ORD00727,CUST0191,2026-06-03,Karachi,Clifton,Desi,Casual Dining,Wallet,1380,27,5,Yes
+ORD00728,CUST0135,2026-05-07,Lahore,DHA Lahore,Burgers,Fast Food,Cash,1130,29,5,No
+ORD00729,CUST0091,2026-05-23,Islamabad,Bahria Town ISB,Beverages,Cafe,Wallet,610,33,4,No
+ORD00730,CUST0381,2026-05-10,Islamabad,Blue Area,Pizza,Casual Dining,Wallet,2490,27,5,No
+ORD00731,CUST0322,2026-05-27,Rawalpindi,Satellite Town,Pizza,Casual Dining,Cash,2280,30,5,No
+ORD00732,CUST0142,2026-05-01,Karachi,Gulshan-e-Iqbal,Desi,Fast Food,Cash,1110,29,4,No
+ORD00733,CUST0379,2026-05-25,Islamabad,I-8,Chinese,Casual Dining,Cash,1500,30,4,Yes
+ORD00734,CUST0134,2026-06-07,Lahore,Gulberg,Desi,Casual Dining,Cash,1800,56,3,No
+ORD00735,CUST0408,2026-05-05,Karachi,North Nazimabad,Pizza,Casual Dining,Cash,1720,21,5,No
+ORD00736,CUST0418,2026-05-23,Karachi,PECHS,Beverages,Cafe,Cash,640,42,4,No
+ORD00737,CUST0228,2026-05-03,Karachi,PECHS,Burgers,Fast Food,Card,1040,36,4,No
+ORD00738,CUST0383,2026-05-02,Karachi,DHA,Pizza,Casual Dining,Cash,2420,27,5,No
+ORD00739,CUST0233,2026-05-11,Karachi,Gulshan-e-Iqbal,Burgers,Fast Food,Cash,600,27,4,Yes
+ORD00740,CUST0325,2026-06-05,Karachi,PECHS,Burgers,Cloud Kitchen,Cash,1060,40,2,No
+ORD00741,CUST0163,2026-06-02,Karachi,Gulshan-e-Iqbal,Beverages,Cafe,Cash,620,39,5,No
+ORD00742,CUST0351,2026-06-04,Karachi,DHA,Bakery,Bakery,Card,620,58,2,Yes
+ORD00743,CUST0287,2026-06-15,Lahore,Johar Town,Pizza,Fast Food,Cash,1470,47,4,No
+ORD00744,CUST0388,2026-05-22,Islamabad,I-8,Pizza,Fast Food,Wallet,1180,27,4,No
+ORD00745,CUST0059,2026-05-10,Rawalpindi,Satellite Town,Pizza,Cloud Kitchen,Cash,1710,24,3,Yes
+ORD00746,CUST0356,2026-05-14,Karachi,Clifton,Pizza,Casual Dining,Card,1460,24,5,No
+ORD00747,CUST0067,2026-06-08,Rawalpindi,Bahria Rawalpindi,Desi,Cloud Kitchen,Cash,1430,45,5,Yes
+ORD00748,CUST0330,2026-05-16,Lahore,Wapda Town,Burgers,Fast Food,Wallet,830,35,4,No
+ORD00749,CUST0109,2026-05-14,Lahore,Wapda Town,Desi,Casual Dining,Wallet,1170,45,5,No
+ORD00750,CUST0329,2026-05-02,Lahore,Johar Town,Desi,Casual Dining,Wallet,1510,43,4,No
+ORD00751,CUST0410,2026-06-12,Lahore,DHA Lahore,Pizza,Casual Dining,Cash,2410,45,5,No
+ORD00752,CUST0061,2026-06-12,Islamabad,Blue Area,Burgers,Fast Food,Wallet,760,21,4,Yes
+ORD00753,CUST0414,2026-05-06,Karachi,DHA,Desi,Fast Food,Wallet,1180,55,4,Yes
+ORD00754,CUST0177,2026-05-04,Lahore,Johar Town,Pizza,Fast Food,Cash,1790,39,3,No
+ORD00755,CUST0046,2026-06-04,Karachi,Clifton,Bakery,Cafe,Card,720,29,4,No
+ORD00756,CUST0304,2026-06-11,Karachi,North Nazimabad,Burgers,Fast Food,Cash,1040,23,5,No
+ORD00757,CUST0333,2026-05-24,Islamabad,F-10,Burgers,Fast Food,Card,1010,44,3,No
+ORD00758,CUST0078,2026-05-09,Karachi,DHA,Chinese,Cloud Kitchen,Card,1470,31,4,No
+ORD00759,CUST0107,2026-06-04,Lahore,Model Town,Desi,Casual Dining,Card,1330,37,4,No
+ORD00760,CUST0147,2026-05-18,Lahore,Gulberg,Desi,Casual Dining,Cash,880,22,5,Yes
+ORD00761,CUST0056,2026-06-01,Karachi,North Nazimabad,Desi,Cloud Kitchen,Card,1150,28,4,No
+ORD00762,CUST0068,2026-06-08,Lahore,DHA Lahore,Beverages,Cafe,Wallet,700,37,4,No
+ORD00763,CUST0279,2026-05-05,Islamabad,Bahria Town ISB,Burgers,Fast Food,CARD,990,26,5,No
+ORD00764,CUST0147,2026-06-03,Islamabad,F-10,Pizza,Casual Dining,Card,2020,19,5,Yes
+ORD00765,CUST0288,2026-05-01,Lahore,Gulberg,Pizza,Cloud Kitchen,Card,980,45,5,Yes
+ORD00766,CUST0354,2026-05-09,Rawalpindi,Chaklala,Healthy,Cafe,Card,630,36,3,No
+ORD00767,CUST0074,2026-06-12,Islamabad,F-10,Pizza,Fast Food,Card,1790,40,4,No
+ORD00768,CUST0417,2026-05-14,Islamabad,Blue Area,Pizza,Cloud Kitchen,Wallet,1510,40,3,No
+ORD00769,CUST0241,2026-05-16,Lahore,Model Town,Burgers,Fast Food,Cash,590,28,4,No
+ORD00770,CUST0117,2026-06-11,Rawalpindi,Satellite Town,Pizza,Fast Food,Card,1390,38,2,No
+ORD00771,CUST0006,2026-05-23,Lahore,Model Town,Chinese,Casual Dining,Card,1750,57,4,No
+ORD00772,CUST0252,2026-05-21,Islamabad,F-10,Bakery,Cafe,Cash,830,22,5,No
+ORD00773,CUST0259,2026-05-31,Rawalpindi,Bahria Rawalpindi,Bakery,Cafe,Wallet,520,44,3,Yes
+ORD00774,CUST0390,2026-05-09,Karachi,Clifton,Burgers,Fast Food,Cash,940,42,4,No
+ORD00775,CUST0168,2026-05-17,Karachi,DHA,Chinese,Casual Dining,Cash,1330,63,5,Yes
+ORD00776,CUST0208,2026-05-30,Karachi,PECHS,Pizza,Fast Food,Wallet,1270,37,3,No
+ORD00777,CUST0277,2026-06-06,Lahore,DHA Lahore,Bakery,Bakery,Cash,860,35,4,No
+ORD00778,CUST0403,2026-05-30,Islamabad,G-11,Pizza,Casual Dining,Card,1260,29,4,No
+ORD00779,CUST0350,2026-05-05,Lahore,Wapda Town,Pizza,Cloud Kitchen,Cash,1250,29,5,No
+ORD00780,CUST0366,2026-06-07,Karachi,Gulshan-e-Iqbal,Chinese,Casual Dining,Cash,1370,24,4,No
+ORD00781,CUST0177,2026-06-03,Lahore,Wapda Town,Bakery,Bakery,Wallet,500,71,3,Yes
+ORD00782,CUST0395,2026-05-30,Lahore,Model Town,Burgers,Cloud Kitchen,Cash,820,53,4,No
+ORD00783,CUST0356,2026-05-15,Karachi,DHA,Desi,Fast Food,Cash,1690,30,4,No
+ORD00784,CUST0351,2026-05-19,Karachi,Gulshan-e-Iqbal,Desi,Casual Dining,Cash,1030,31,4,Yes
+ORD00785,CUST0401,2026-05-27,Karachi,Clifton,Burgers,Fast Food,Card,1170,54,4,No
+ORD00786,CUST0080,2026-05-27,Karachi,Gulistan-e-Johar,Pizza,Fast Food,Cash,1270,43,5,Yes
+ORD00787,CUST0054,2026-05-23,Karachi,DHA,Burgers,Fast Food,Wallet,1280,25,4,Yes
+ORD00788,CUST0082,2026-05-09,Lahore,Johar Town,Desi,Casual Dining,Cash,1810,26,5,Yes
+ORD00789,CUST0197,2026-05-10,Rawalpindi,Satellite Town,Desi,Cloud Kitchen,Card,1500,24,5,No
+ORD00790,CUST0129,2026-06-13,Karachi,Gulistan-e-Johar,Beverages,Cafe,Cash,480,26,4,No
+ORD00791,CUST0347,2026-05-14,Lahore,Johar Town,Beverages,Fast Food,Card,350,28,5,Yes
+ORD00792,CUST0002,2026-05-22,Lahore,Model Town,Desi,Cloud Kitchen,Card,1210,69,2,Yes
+ORD00793,CUST0326,2026-05-23,Karachi,PECHS,Bakery,Bakery,Cash,550,26,4,No
+ORD00794,CUST0280,2026-05-07,Karachi,PECHS,Chinese,Cloud Kitchen,Cash,1120,65,2,Yes
+ORD00795,CUST0305,2026-06-11,Lahore,Gulberg,Pizza,Cloud Kitchen,Wallet,1100,44,2,No
+ORD00796,CUST0023,2026-06-09,Lahore,Johar Town,Beverages,Cafe,Cash,440,45,5,Yes
+ORD00797,CUST0218,2026-06-01,Karachi,Clifton,Desi,Cloud Kitchen,Cash,1210,68,5,No
+ORD00798,CUST0011,2026-05-03,Lahore,Wapda Town,Desi,Casual Dining,Card,2060,31,3,Yes
+ORD00799,CUST0252,2026-06-14,Karachi,Clifton,Pizza,Cloud Kitchen,Wallet,970,59,3,No
+ORD00800,CUST0218,2026-05-12,Lahore,Johar Town,Desi,Casual Dining,Cash,1230,45,2,Yes
+ORD00801,CUST0044,2026-05-09,Lahore,Gulberg,Desi,Cloud Kitchen,Card,1570,44,5,No
+ORD00802,CUST0413,2026-06-02,Lahore,Johar Town,Pizza,Fast Food,Cash,1530,46,1,No
+ORD00803,CUST0126,2026-05-16,Karachi,North Nazimabad,Burgers,Fast Food,Cash,1010,43,4,No
+ORD00804,CUST0273,2026-06-02,Lahore,Johar Town,Beverages,Cafe,Wallet,350,31,5,Yes
+ORD00805,CUST0016,2026-05-27,Lahore,Gulberg,Desi,Casual Dining,Wallet,2010,44,3,No
+ORD00806,CUST0096,2026-05-18,Karachi,North Nazimabad,Chinese,Casual Dining,Card,1900,45,4,Yes
+ORD00807,CUST0202,2026-05-10,Karachi,Gulistan-e-Johar,Healthy,Cafe,Wallet,640,34,5,No
+ORD00808,CUST0211,2026-05-29,Karachi,Gulshan-e-Iqbal,Beverages,Cafe,CARD,530,41,4,No
+ORD00809,CUST0382,2026-05-06,Karachi,DHA,Burgers,Fast Food,Cash,630,44,4,No
+ORD00810,CUST0095,2026-05-21,Karachi,North Nazimabad,Chinese,Cloud Kitchen,Cash,910,58,3,No
+ORD00811,CUST0242,2026-05-01,Lahore,Johar Town,Burgers,Cloud Kitchen,Cash,1010,54,1,No
+ORD00812,CUST0378,2026-05-26,Lahore,Gulberg,Desi,Cloud Kitchen,Cash,1150,49,4,No
+ORD00813,CUST0357,2026-05-21,Karachi,Gulshan-e-Iqbal,Desi,Cloud Kitchen,Cash,750,33,5,Yes
+ORD00814,CUST0266,2026-05-26,Karachi,PECHS,Beverages,Cloud Kitchen,Cash,330,38,5,No
+ORD00815,CUST0114,2026-06-15,Rawalpindi,Satellite Town,Pizza,Fast Food,Cash,1070,31,4,No
+ORD00816,CUST0174,2026-06-10,Islamabad,F-10,Bakery,Bakery,Cash,820,57,1,Yes
+ORD00817,CUST0335,2026-05-30,Lahore,DHA Lahore,Beverages,Cloud Kitchen,Wallet,680,62,2,Yes
+ORD00818,CUST0383,2026-05-31,Islamabad,G-11,Desi,Casual Dining,Card,1810,52,3,No
+ORD00819,CUST0049,2026-06-11,Lahore,Model Town,Burgers,Cloud Kitchen,Wallet,890,64,2,Yes
+ORD00820,CUST0098,2026-05-09,Islamabad,Blue Area,Pizza,Fast Food,Wallet,1950,42,4,Yes
+ORD00821,CUST0208,2026-05-01,Karachi,Gulistan-e-Johar,Bakery,Bakery,Cash,800,23,4,No
+ORD00822,CUST0400,2026-05-25,Lahore,Johar Town,Desi,Casual Dining,Cash,1710,25,5,Yes
+ORD00823,CUST0166,2026-05-27,Lahore,DHA Lahore,Beverages,Fast Food,Wallet,390,40,4,No
+ORD00824,CUST0086,2026-05-02,Islamabad,Blue Area,Pizza,Fast Food,Card,910,42,4,No
+ORD00825,CUST0181,2026-06-08,Lahore,DHA Lahore,Beverages,Cafe,Cash,390,20,5,No
+ORD00826,CUST0189,2026-05-21,Karachi,Gulshan-e-Iqbal,Pizza,Cloud Kitchen,Cash,1210,45,4,No
+ORD00827,CUST0329,2026-05-24,Karachi,DHA,Healthy,Cafe,Cash,1180,48,3,No
+ORD00828,CUST0005,2026-05-08,Lahore,Gulberg,Bakery,Bakery,Wallet,570,48,4,No
+ORD00829,CUST0305,2026-06-12,Lahore,Johar Town,Desi,Fast Food,Card,710,38,4,No
+ORD00830,CUST0267,2026-05-01,Karachi,Gulshan-e-Iqbal,Pizza,Casual Dining,Cash,1970,22,4,No
+ORD00831,CUST0059,2026-05-27,Karachi,Gulshan-e-Iqbal,Pizza,Cloud Kitchen,Cash,1890,37,4,Yes
+ORD00832,CUST0302,2026-05-20,Karachi,PECHS,Chinese,Casual Dining,Card,2180,25,4,No
+ORD00833,CUST0385,2026-05-04,Rawalpindi,Chaklala,Beverages,Cafe,Cash,300,35,5,Yes
+ORD00834,CUST0261,2026-05-12,Karachi,Gulistan-e-Johar,Desi,Casual Dining,Card,1560,37,4,Yes
+ORD00835,CUST0264,2026-06-05,Lahore,Johar Town,Healthy,Cafe,Wallet,1060,35,4,No
+ORD00836,CUST0359,2026-05-22,Karachi,Gulistan-e-Johar,Healthy,Cafe,Cash,840,38,3,No
+ORD00837,CUST0045,2026-05-03,Karachi,DHA,Pizza,Fast Food,Cash,860,61,3,No
+ORD00838,CUST0121,2026-05-06,Rawalpindi,Chaklala,Desi,Casual Dining,Card,1920,54,3,No
+ORD00839,CUST0409,2026-06-04,Lahore,Johar Town,Bakery,Bakery,Card,590,20,4,No
+ORD00840,CUST0054,2026-06-10,Lahore,Gulberg,Chinese,Cloud Kitchen,Wallet,1150,41,5,No
+ORD00841,CUST0201,2026-06-12,Karachi,Gulistan-e-Johar,Chinese,Cloud Kitchen,Cash,1710,43,3,No
+ORD00842,CUST0141,2026-05-25,Karachi,Clifton,Chinese,Cloud Kitchen,Card,1080,53,2,Yes
+ORD00843,CUST0006,2026-06-01,Lahore,Johar Town,Burgers,Fast Food,Cash,950,41,5,Yes
+ORD00844,CUST0183,2026-05-14,Lahore,Model Town,Desi,Fast Food,Wallet,1500,22,5,Yes
+ORD00845,CUST0100,2026-05-06,Karachi,DHA,Beverages,Cafe,Wallet,300,33,4,No
+ORD00846,CUST0224,2026-06-07,Karachi,DHA,Chinese,Cloud Kitchen,Wallet,1570,37,5,Yes
+ORD00847,CUST0403,2026-05-27,Karachi,North Nazimabad,Beverages,Cloud Kitchen,Cash,690,63,2,No
+ORD00848,CUST0263,2026-06-10,Rawalpindi,Bahria Rawalpindi,Desi,Casual Dining,Card,2050,45,4,No
+ORD00849,CUST0248,2026-05-17,Rawalpindi,Saddar,Beverages,Cafe,Wallet,300,72,3,No
+ORD00850,CUST0049,2026-05-14,Lahore,Johar Town,Pizza,Cloud Kitchen,Wallet,1300,36,4,Yes
+ORD00851,CUST0241,2026-05-23,Karachi,PECHS,Desi,Cloud Kitchen,Cash,1130,51,2,Yes
+ORD00852,CUST0188,2026-05-08,Karachi,PECHS,Healthy,Cloud Kitchen,Card,1010,40,4,No
+ORD00853,CUST0189,2026-05-01,Karachi,PECHS,Healthy,Casual Dining,Card,1030,22,4,No
+ORD00854,CUST0342,2026-05-21,Karachi,North Nazimabad,Desi,Cloud Kitchen,cash,1410,29,4,No
+ORD00855,CUST0394,2026-06-06,Lahore,Wapda Town,Pizza,Cloud Kitchen,Card,1370,58,1,No
+ORD00856,CUST0319,2026-06-07,Lahore,Gulberg,Desi,Cloud Kitchen,Cash,1250,30,3,No
+ORD00857,CUST0126,2026-05-24,Karachi,Clifton,Pizza,Fast Food,Cash,1690,38,4,Yes
+ORD00858,CUST0354,2026-05-03,Islamabad,F-10,Burgers,Fast Food,Cash,630,28,5,No
+ORD00859,CUST0172,2026-06-07,Lahore,Gulberg,Burgers,Fast Food,Cash,1380,21,4,No
+ORD00860,CUST0050,2026-06-05,Lahore,Wapda Town,Chinese,Casual Dining,Wallet,1380,33,2,Yes
+ORD00861,CUST0270,2026-05-31,Karachi,DHA,Burgers,Fast Food,Wallet,1070,27,5,No
+ORD00862,CUST0046,2026-05-29,Karachi,Gulshan-e-Iqbal,Desi,Casual Dining,Cash,1730,43,4,No
+ORD00863,CUST0221,2026-05-01,Lahore,Model Town,Burgers,Cloud Kitchen,Card,940,33,3,No
+ORD00864,CUST0307,2026-05-14,Karachi,Gulistan-e-Johar,Burgers,Fast Food,Wallet,900,41,4,No
+ORD00865,CUST0360,2026-06-07,Karachi,Gulshan-e-Iqbal,Desi,Cloud Kitchen,E-Wallet,820,24,4,No
+ORD00866,CUST0296,2026-06-06,Lahore,Johar Town,Beverages,Cafe,Cash,460,32,4,No
+ORD00867,CUST0110,2026-05-17,Lahore,Gulberg,Bakery,Bakery,Cash,850,22,3,Yes
+ORD00868,CUST0322,2026-05-17,Karachi,North Nazimabad,Chinese,Fast Food,Card,780,20,5,No
+ORD00869,CUST0294,2026-05-04,Karachi,PECHS,Burgers,Cloud Kitchen,Cash,1190,52,4,No
+ORD00870,CUST0261,2026-06-12,Karachi,North Nazimabad,Desi,Fast Food,Cash,1700,42,3,No
+ORD00871,CUST0225,2026-05-29,Karachi,PECHS,Healthy,Casual Dining,Wallet,850,72,3,Yes
+ORD00872,CUST0170,2026-05-07,Karachi,DHA,Healthy,Cloud Kitchen,cash,790,22,5,No
+ORD00873,CUST0127,2026-05-06,Lahore,Johar Town,Pizza,Casual Dining,Cash,2250,27,4,Yes
+ORD00874,CUST0283,2026-05-21,Karachi,North Nazimabad,Healthy,Casual Dining,Wallet,1780,51,3,No
+ORD00875,CUST0077,2026-05-07,Karachi,North Nazimabad,Desi,Casual Dining,Card,1000,28,5,No
+ORD00876,CUST0117,2026-05-27,Karachi,Gulistan-e-Johar,Burgers,Fast Food,Cash,570,38,4,Yes
+ORD00877,CUST0289,2026-05-13,Lahore,Gulberg,Desi,Casual Dining,Cash,1350,36,4,Yes
+ORD00878,CUST0217,2026-05-12,Lahore,Gulberg,Pizza,Cloud Kitchen,Card,1110,48,5,No
+ORD00879,CUST0331,2026-06-12,Rawalpindi,Chaklala,Burgers,Fast Food,Card,1290,64,5,Yes
+ORD00880,CUST0102,2026-06-12,Lahore,Johar Town,Pizza,Casual Dining,Wallet,1540,38,4,Yes
+ORD00881,CUST0201,2026-05-19,Lahore,Johar Town,Healthy,Cloud Kitchen,Card,930,59,4,Yes
+ORD00882,CUST0166,2026-06-05,Lahore,DHA Lahore,Burgers,Cloud Kitchen,Card,1510,50,3,No
+ORD00883,CUST0392,2026-05-18,Islamabad,G-11,Desi,Casual Dining,Cash,910,49,4,No
+ORD00884,CUST0268,2026-05-23,Karachi,Gulistan-e-Johar,Beverages,Cafe,Wallet,350,20,4,No
+ORD00885,CUST0396,2026-06-13,Lahore,Gulberg,Beverages,Cloud Kitchen,Cash,710,32,3,No
+ORD00886,CUST0381,2026-05-06,Karachi,Gulshan-e-Iqbal,Pizza,Casual Dining,Card,1460,20,4,No
+ORD00887,CUST0322,2026-05-14,Karachi,Gulistan-e-Johar,Pizza,Fast Food,Card,1890,24,4,No
+ORD00888,CUST0125,2026-05-12,Karachi,Gulistan-e-Johar,Pizza,Cloud Kitchen,Wallet,1270,54,2,No
+ORD00889,CUST0344,2026-06-06,Karachi,North Nazimabad,Chinese,Casual Dining,Cash,2160,22,5,No
+ORD00890,CUST0380,2026-05-17,Karachi,Clifton,Healthy,Cloud Kitchen,Cash,700,41,4,Yes
+ORD00891,CUST0353,2026-05-16,Rawalpindi,Bahria Rawalpindi,Burgers,Cloud Kitchen,Cash,940,67,4,No
+ORD00892,CUST0204,2026-06-11,Karachi,Clifton,Beverages,Cafe,Wallet,380,37,3,No
+ORD00893,CUST0187,2026-05-28,Karachi,DHA,Healthy,Cloud Kitchen,Card,690,61,3,No
+ORD00894,CUST0180,2026-05-08,Rawalpindi,Saddar,Bakery,Bakery,Card,610,63,2,Yes
+ORD00895,CUST0121,2026-05-03,Rawalpindi,Bahria Rawalpindi,Healthy,Cloud Kitchen,Card,890,31,4,Yes
+ORD00896,CUST0264,2026-05-17,Lahore,Gulberg,Chinese,Casual Dining,Card,2070,20,3,No
+ORD00897,CUST0269,2026-06-14,Karachi,Gulistan-e-Johar,Beverages,Cafe,Card,400,25,5,No
+ORD00898,CUST0330,2026-05-03,Lahore,DHA Lahore,Bakery,Bakery,Cash,450,35,4,Yes
+ORD00899,CUST0366,2026-05-31,Karachi,Gulistan-e-Johar,Chinese,Fast Food,Card,1780,41,3,No
+ORD00900,CUST0385,2026-06-05,Lahore,Model Town,Bakery,Bakery,Cash,450,35,5,No
+ORD00901,CUST0003,2026-05-18,Karachi,Gulistan-e-Johar,Desi,Cloud Kitchen,Cash,990,40,5,Yes
+ORD00902,CUST0042,2026-06-12,Karachi,North Nazimabad,Bakery,Bakery,Cash,540,50,3,Yes
+ORD00903,CUST0166,2026-05-15,Islamabad,I-8,Beverages,Cloud Kitchen,Cash,390,19,4,No
+ORD00904,CUST0097,2026-06-06,Karachi,DHA,Burgers,Fast Food,Card,600,40,4,Yes
+ORD00905,CUST0013,2026-05-04,Karachi,Gulshan-e-Iqbal,Burgers,Fast Food,Card,1150,44,4,No
+ORD00906,CUST0107,2026-06-07,Lahore,Wapda Town,Pizza,Casual Dining,Card,2170,30,5,No
+ORD00907,CUST0137,2026-05-09,Islamabad,F-10,Burgers,Fast Food,Cash,640,45,4,No
+ORD00908,CUST0398,2026-05-15,Karachi,Gulistan-e-Johar,Healthy,Cloud Kitchen,Cash,1430,25,3,No
+ORD00909,CUST0371,2026-06-11,Rawalpindi,Bahria Rawalpindi,Desi,Cloud Kitchen,Card,1690,47,1,Yes
+ORD00910,CUST0376,2026-05-30,Lahore,Wapda Town,Burgers,Fast Food,Wallet,1330,29,4,No
+ORD00911,CUST0221,2026-05-26,Karachi,Clifton,Desi,Casual Dining,Wallet,1560,28,5,No
+ORD00912,CUST0412,2026-06-13,Rawalpindi,Satellite Town,Bakery,Bakery,Card,420,46,5,No
+ORD00913,CUST0039,2026-05-01,Karachi,PECHS,Desi,Cloud Kitchen,Cash,1340,23,4,No
+ORD00914,CUST0099,2026-05-17,Lahore,Johar Town,Chinese,Cloud Kitchen,Card,1590,54,3,No
+ORD00915,CUST0152,2026-06-06,Islamabad,F-10,Pizza,Fast Food,Wallet,1100,65,2,No
+ORD00916,CUST0073,2026-05-20,Karachi,Gulshan-e-Iqbal,Desi,Casual Dining,Card,1040,23,5,Yes
+ORD00917,CUST0248,2026-05-18,Rawalpindi,Chaklala,Bakery,Cafe,Cash,840,40,4,Yes
+ORD00918,CUST0302,2026-05-04,Karachi,DHA,Chinese,Cloud Kitchen,Cash,890,32,4,Yes
+ORD00919,CUST0011,2026-06-05,Karachi,Gulshan-e-Iqbal,Beverages,Cloud Kitchen,Wallet,690,29,4,Yes
+ORD00920,CUST0114,2026-05-19,Islamabad,I-8,Desi,Cloud Kitchen,Cash,1620,68,2,No
+ORD00921,CUST0086,2026-06-13,Islamabad,Blue Area,Pizza,Fast Food,Wallet,1300,31,4,No
+ORD00922,CUST0268,2026-05-24,Karachi,DHA,Desi,Fast Food,Card,710,27,4,No
+ORD00923,CUST0311,2026-05-26,Karachi,Gulistan-e-Johar,Burgers,Fast Food,Card,620,39,3,No
+ORD00924,CUST0372,2026-05-11,Islamabad,F-10,Chinese,Casual Dining,Wallet,2250,40,4,Yes
+ORD00925,CUST0412,2026-06-12,Rawalpindi,Bahria Rawalpindi,Pizza,Fast Food,Cash,1180,30,5,No
+ORD00926,CUST0410,2026-06-02,Islamabad,G-11,Beverages,Cafe,Wallet,530,41,3,Yes
+ORD00927,CUST0065,2026-06-09,Islamabad,Bahria Town ISB,Chinese,Cloud Kitchen,Wallet,870,60,4,Yes
+ORD00928,CUST0066,2026-05-24,Karachi,Gulshan-e-Iqbal,Beverages,Cafe,Card,380,44,4,No
+ORD00929,CUST0365,2026-05-01,Karachi,Gulistan-e-Johar,Burgers,Fast Food,Wallet,850,43,5,No
+ORD00930,CUST0232,2026-05-25,Karachi,Gulistan-e-Johar,Chinese,Fast Food,Wallet,990,22,3,No
+ORD00931,CUST0244,2026-06-08,Karachi,Clifton,Desi,Casual Dining,Wallet,1350,39,4,No
+ORD00932,CUST0413,2026-05-28,Karachi,PECHS,Desi,Casual Dining,Cash,1180,35,3,Yes
+ORD00933,CUST0122,2026-05-29,Islamabad,Bahria Town ISB,Burgers,Fast Food,Cash,870,44,4,No
+ORD00934,CUST0069,2026-06-12,Karachi,North Nazimabad,Pizza,Fast Food,Card,1910,50,4,Yes
+ORD00935,CUST0313,2026-05-27,Islamabad,Blue Area,Pizza,Fast Food,Card,960,42,4,Yes
+ORD00936,CUST0086,2026-05-10,Lahore,DHA Lahore,Healthy,Cafe,Wallet,1410,61,3,No
+ORD00937,CUST0221,2026-05-30,Lahore,Johar Town,Desi,Cloud Kitchen,Wallet,740,37,3,Yes
+ORD00938,CUST0200,2026-05-06,Lahore,Model Town,Chinese,Casual Dining,Cash,1820,42,4,No
+ORD00939,CUST0051,2026-05-10,Karachi,Gulshan-e-Iqbal,Bakery,Bakery,Cash,790,19,5,No
+ORD00940,CUST0053,2026-05-23,Karachi,Gulshan-e-Iqbal,Pizza,Casual Dining,Cash,1430,32,4,No
+ORD00941,CUST0326,2026-05-11,Lahore,DHA Lahore,Desi,Cloud Kitchen,Wallet,1750,52,4,No
+ORD00942,CUST0267,2026-05-31,Lahore,Model Town,Desi,Casual Dining,Card,1040,37,3,No
+ORD00943,CUST0201,2026-05-30,Islamabad,G-11,Chinese,Cloud Kitchen,Card,1430,39,4,Yes
+ORD00944,CUST0292,2026-06-03,Lahore,Wapda Town,Burgers,Fast Food,Cash,780,59,4,Yes
+ORD00945,CUST0290,2026-05-20,Karachi,Gulshan-e-Iqbal,Beverages,Cafe,Cash,370,39,4,No
+ORD00946,CUST0259,2026-06-02,Lahore,Wapda Town,Bakery,Bakery,Cash,710,40,5,No
+ORD00947,CUST0004,2026-06-09,Karachi,Gulshan-e-Iqbal,Desi,Cloud Kitchen,Cash,1270,23,5,No
+ORD00948,CUST0107,2026-05-02,Karachi,PECHS,Desi,Casual Dining,Card,1140,38,3,No
+ORD00949,CUST0110,2026-05-25,Lahore,Gulberg,Beverages,Fast Food,Cash,760,27,4,No
+ORD00950,CUST0069,2026-06-13,Karachi,Clifton,Burgers,Cloud Kitchen,Cash,1060,36,2,No
+ORD00951,CUST0274,2026-05-18,Islamabad,Blue Area,Beverages,Cafe,Cash,740,50,2,No
+ORD00952,CUST0090,2026-05-21,Karachi,Clifton,Pizza,Fast Food,Wallet,1820,30,5,No
+ORD00953,CUST0073,2026-05-01,Rawalpindi,Saddar,Beverages,Cafe,Card,320,37,4,Yes
+ORD00954,CUST0201,2026-05-04,Karachi,Gulistan-e-Johar,Beverages,Cafe,Wallet,510,39,3,No
+ORD00955,CUST0135,2026-06-13,Lahore,DHA Lahore,Desi,Fast Food,Card,1600,22,4,No
+ORD00956,CUST0403,2026-05-20,Karachi,PECHS,Desi,Casual Dining,cash,1900,27,3,No
+ORD00957,CUST0080,2026-05-28,Islamabad,G-11,Burgers,Cloud Kitchen,Wallet,670,67,4,Yes
+ORD00958,CUST0035,2026-06-15,Karachi,Clifton,Burgers,Cloud Kitchen,Card,930,41,5,No
+ORD00959,CUST0096,2026-06-14,Rawalpindi,Saddar,Chinese,Casual Dining,Cash,1360,32,5,No
+ORD00960,CUST0379,2026-05-03,Rawalpindi,Saddar,Bakery,Bakery,Cash,670,43,5,Yes
+ORD00961,CUST0102,2026-05-07,Lahore,DHA Lahore,Beverages,Cafe,Card,700,23,5,Yes
+ORD00962,CUST0288,2026-05-10,Lahore,Model Town,Chinese,Casual Dining,Card,1600,55,5,No
+ORD00963,CUST0256,2026-06-08,Karachi,North Nazimabad,Healthy,Cafe,Card,560,72,3,No
+ORD00964,CUST0004,2026-05-29,Karachi,Gulshan-e-Iqbal,Pizza,Cloud Kitchen,CARD,2080,76,4,No
+ORD00965,CUST0194,2026-05-31,Islamabad,G-11,Burgers,Fast Food,Card,1350,40,3,No
+ORD00966,CUST0270,2026-05-02,Lahore,Wapda Town,Desi,Fast Food,Wallet,1550,44,4,No
+ORD00967,CUST0348,2026-06-15,Karachi,DHA,Pizza,Fast Food,Wallet,920,23,4,No
+ORD00968,CUST0295,2026-05-03,Lahore,DHA Lahore,Chinese,Casual Dining,Cash,2010,28,4,Yes
+ORD00969,CUST0177,2026-05-28,Islamabad,Bahria Town ISB,Bakery,Bakery,Card,830,72,2,No
+ORD00970,CUST0007,2026-05-16,Lahore,Gulberg,Pizza,Fast Food,Cash,1430,70,2,No
+ORD00971,CUST0300,2026-06-13,Rawalpindi,Chaklala,Chinese,Casual Dining,Card,1350,61,5,Yes
+ORD00972,CUST0163,2026-05-07,Lahore,DHA Lahore,Bakery,Cafe,Cash,560,63,5,Yes
+ORD00973,CUST0205,2026-05-03,Lahore,Gulberg,Healthy,Cloud Kitchen,Cash,1100,33,3,No
+ORD00974,CUST0205,2026-05-15,Karachi,Gulshan-e-Iqbal,Healthy,Cafe,Wallet,630,72,2,No
+ORD00975,CUST0075,2026-05-06,Islamabad,I-8,Bakery,Bakery,Card,370,65,4,Yes
+ORD00976,CUST0107,2026-05-22,Lahore,Gulberg,Bakery,Bakery,Card,870,23,5,No
+ORD00977,CUST0046,2026-06-06,Karachi,Gulshan-e-Iqbal,Desi,Casual Dining,CARD,940,57,4,No
+ORD00978,CUST0163,2026-05-31,Islamabad,I-8,Pizza,Fast Food,Card,1570,18,5,Yes
+ORD00979,CUST0279,2026-05-08,Rawalpindi,Satellite Town,Desi,Cloud Kitchen,Card,940,33,4,Yes
+ORD00980,CUST0277,2026-06-05,Karachi,Gulshan-e-Iqbal,Burgers,Fast Food,Card,700,34,2,Yes
+ORD00981,CUST0021,2026-06-01,Karachi,North Nazimabad,Bakery,Bakery,Wallet,570,36,4,Yes
+ORD00982,CUST0112,2026-05-08,Lahore,Wapda Town,Beverages,Fast Food,Cash,610,26,4,No
+ORD00983,CUST0271,2026-05-27,Karachi,Gulistan-e-Johar,Healthy,Cafe,Card,1030,25,3,No
+ORD00984,CUST0272,2026-05-21,Lahore,Gulberg,Chinese,Fast Food,Card,1630,67,3,Yes
+ORD00985,CUST0279,2026-05-20,Karachi,Gulshan-e-Iqbal,Desi,Casual Dining,cash,1800,32,5,No
+ORD00986,CUST0418,2026-05-27,Karachi,DHA,Beverages,Cafe,Cash,670,30,3,Yes
+ORD00987,CUST0349,2026-06-09,Islamabad,F-10,Healthy,Cafe,Cash,610,38,5,No
+ORD00988,CUST0141,2026-05-06,Lahore,DHA Lahore,Desi,Cloud Kitchen,Card,1370,19,5,No
+ORD00989,CUST0227,2026-05-28,Lahore,Model Town,Bakery,Bakery,Card,370,25,4,No
+ORD00990,CUST0013,2026-05-09,Karachi,PECHS,Desi,Casual Dining,Cash,1280,20,3,No
+ORD00991,CUST0194,2026-06-06,Islamabad,I-8,Pizza,Fast Food,Card,1390,27,4,No
+ORD00992,CUST0024,2026-05-03,Lahore,Wapda Town,Desi,Casual Dining,Cash,1880,25,4,No
+ORD00993,CUST0341,2026-06-04,Rawalpindi,Satellite Town,Desi,Casual Dining,Card,1220,23,4,No
+ORD00994,CUST0085,2026-06-14,Rawalpindi,Satellite Town,Bakery,Bakery,Card,860,36,4,Yes
+ORD00995,CUST0264,2026-06-02,Karachi,Gulistan-e-Johar,Burgers,Cloud Kitchen,Wallet,1060,37,4,No
+ORD00996,CUST0145,2026-05-18,Rawalpindi,Saddar,Chinese,Casual Dining,Cash,1620,37,4,No
+ORD00997,CUST0311,2026-05-31,Islamabad,G-11,Burgers,Fast Food,Wallet,990,31,4,No
+ORD00998,CUST0286,2026-06-08,Lahore,Wapda Town,Burgers,Fast Food,Cash,1030,48,4,No
+ORD00999,CUST0086,2026-06-06,Islamabad,G-11,Pizza,Casual Dining,Wallet,2370,59,2,No
+ORD01000,CUST0191,2026-05-22,Karachi,Gulshan-e-Iqbal,Burgers,Cloud Kitchen,Cash,1020,64,3,Yes
+ORD01001,CUST0043,2026-05-06,Karachi,North Nazimabad,Burgers,Cloud Kitchen,Cash,1480,21,5,No
+ORD01002,CUST0294,2026-05-08,Karachi,Gulshan-e-Iqbal,Desi,Cloud Kitchen,cash,1570,23,5,No
+ORD01003,CUST0312,2026-06-10,Lahore,DHA Lahore,Desi,Casual Dining,Wallet,1080,42,4,No
+ORD01004,CUST0246,2026-05-04,Lahore,Gulberg,Desi,Casual Dining,Cash,1840,31,4,Yes
+ORD01005,CUST0063,2026-05-19,Lahore,Johar Town,Chinese,Casual Dining,Card,2340,42,4,No
+ORD01006,CUST0182,2026-05-25,Karachi,DHA,Desi,Cloud Kitchen,Cash,1820,24,5,Yes
+ORD01007,CUST0082,2026-05-18,Lahore,Gulberg,Pizza,Cloud Kitchen,Card,890,48,5,No
+ORD01008,CUST0288,2026-05-16,Islamabad,F-10,Chinese,Casual Dining,Cash,2180,32,5,No
+ORD01009,CUST0137,2026-05-03,Islamabad,G-11,Desi,Casual Dining,Cash,1000,41,4,Yes
+ORD01010,CUST0178,2026-05-08,Islamabad,F-10,Healthy,Cloud Kitchen,Cash,1020,71,4,No
+ORD01011,CUST0175,2026-05-13,Karachi,North Nazimabad,Beverages,Cafe,cash,330,39,2,No
+ORD01012,CUST0233,2026-05-08,Islamabad,G-11,Desi,Fast Food,Card,1070,65,3,No
+ORD01013,CUST0223,2026-05-06,Karachi,Clifton,Pizza,Fast Food,E-Wallet,1480,36,4,Yes
+ORD01014,CUST0118,2026-05-14,Karachi,PECHS,Chinese,Fast Food,Cash,1240,40,3,No
+ORD01015,CUST0026,2026-05-04,Karachi,Gulistan-e-Johar,Pizza,Cloud Kitchen,Cash,1200,72,3,No
+ORD01016,CUST0286,2026-05-27,Islamabad,G-11,Desi,Casual Dining,Cash,1490,60,2,No
+ORD01017,CUST0305,2026-05-30,Lahore,Model Town,Bakery,Bakery,E-Wallet,610,18,5,No
+ORD01018,CUST0073,2026-05-11,Karachi,Gulshan-e-Iqbal,Pizza,Fast Food,Cash,1000,47,5,No
+ORD01019,CUST0116,2026-05-04,Karachi,Gulshan-e-Iqbal,Chinese,Fast Food,Cash,1020,41,5,Yes
+ORD01020,CUST0031,2026-05-20,Karachi,PECHS,Burgers,Fast Food,Card,1200,22,5,No
+ORD01021,CUST0303,2026-05-31,Islamabad,G-11,Bakery,Bakery,Wallet,630,26,4,No
+ORD01022,CUST0305,2026-05-11,Karachi,Gulshan-e-Iqbal,Bakery,Bakery,Card,560,40,5,Yes
+ORD01023,CUST0319,2026-06-05,Karachi,Clifton,Desi,Fast Food,Cash,1110,34,3,No
+ORD01024,CUST0093,2026-05-08,Lahore,DHA Lahore,Bakery,Bakery,Cash,410,33,4,Yes
+ORD01025,CUST0014,2026-05-21,Lahore,Gulberg,Chinese,Casual Dining,Card,1410,18,4,Yes
+ORD01026,CUST0098,2026-05-03,Lahore,Gulberg,Burgers,Fast Food,Cash,870,55,3,Yes
+ORD01027,CUST0397,2026-06-06,Islamabad,Bahria Town ISB,Desi,Casual Dining,Cash,1890,42,3,No
+ORD01028,CUST0037,2026-05-26,Islamabad,G-11,Bakery,Bakery,Card,830,40,5,Yes
+ORD01029,CUST0171,2026-05-13,Karachi,Gulshan-e-Iqbal,Pizza,Cloud Kitchen,Cash,1190,33,4,No
+ORD01030,CUST0340,2026-05-26,Karachi,DHA,Desi,Fast Food,Card,680,63,4,Yes
+ORD01031,CUST0125,2026-06-06,Lahore,Model Town,Beverages,Cafe,Card,390,40,4,No
+ORD01032,CUST0152,2026-06-05,Lahore,Johar Town,Desi,Casual Dining,Card,1480,51,5,Yes
+ORD01033,CUST0412,2026-05-06,Karachi,Gulistan-e-Johar,Bakery,Bakery,cash,410,28,5,No
+ORD01034,CUST0353,2026-06-13,Karachi,DHA,Chinese,Fast Food,Card,1390,37,4,No
+ORD01035,CUST0220,2026-06-10,Karachi,Gulistan-e-Johar,Pizza,Fast Food,Cash,980,26,5,No
+ORD01036,CUST0261,2026-06-06,Lahore,DHA Lahore,Chinese,Casual Dining,Cash,1270,24,5,Yes
+ORD01037,CUST0088,2026-06-12,Lahore,DHA Lahore,Pizza,Fast Food,Card,1240,60,3,Yes
+ORD01038,CUST0381,2026-05-11,Rawalpindi,Saddar,Burgers,Fast Food,Card,860,34,4,No
+ORD01039,CUST0385,2026-05-10,Islamabad,Blue Area,Desi,Cloud Kitchen,Wallet,860,38,4,Yes
+ORD01040,CUST0068,2026-05-30,Karachi,Clifton,Pizza,Cloud Kitchen,Wallet,1090,23,4,Yes
+ORD01041,CUST0018,2026-05-25,Karachi,Gulshan-e-Iqbal,Desi,Casual Dining,Cash,960,47,4,No
+ORD01042,CUST0340,2026-05-30,Lahore,Gulberg,Bakery,Bakery,Cash,520,30,3,No
+ORD01043,CUST0020,2026-05-03,Islamabad,F-10,Beverages,Cafe,Card,300,35,5,Yes
+ORD01044,CUST0002,2026-05-15,Karachi,Clifton,Beverages,Cafe,Cash,590,46,4,Yes
+ORD01045,CUST0161,2026-05-20,Rawalpindi,Satellite Town,Chinese,Casual Dining,Cash,2220,33,4,No
+ORD01046,CUST0329,2026-06-08,Karachi,Gulistan-e-Johar,Desi,Casual Dining,Cash,1290,25,5,Yes
+ORD01047,CUST0416,2026-05-10,Rawalpindi,Bahria Rawalpindi,Desi,Fast Food,Cash,820,55,5,No
+ORD01048,CUST0397,2026-05-26,Karachi,Clifton,Burgers,Fast Food,Card,640,26,5,No
+ORD01049,CUST0188,2026-05-23,Islamabad,F-10,Pizza,Cloud Kitchen,Card,1260,71,5,No
+ORD01050,CUST0349,2026-05-22,Lahore,DHA Lahore,Pizza,Fast Food,Wallet,1230,30,5,No
+ORD01051,CUST0024,2026-05-28,Lahore,Johar Town,Burgers,Cloud Kitchen,Card,790,27,4,No
+ORD01052,CUST0129,2026-05-26,Lahore,Gulberg,Burgers,Cloud Kitchen,Wallet,600,34,3,No
+ORD01053,CUST0138,2026-05-30,Rawalpindi,Chaklala,Pizza,Cloud Kitchen,Card,1180,32,3,No
+ORD01054,CUST0166,2026-05-12,Karachi,DHA,Pizza,Fast Food,Card,1250,38,4,No
+ORD01055,CUST0047,2026-05-11,Lahore,Gulberg,Healthy,Cloud Kitchen,cash,1570,24,4,Yes
+ORD01056,CUST0383,2026-06-09,Lahore,Model Town,Desi,Cloud Kitchen,Cash,810,54,3,Yes
+ORD01057,CUST0127,2026-05-27,Karachi,Clifton,Pizza,Cloud Kitchen,Card,950,67,2,Yes
+ORD01058,CUST0190,2026-06-06,Rawalpindi,Saddar,Healthy,Cloud Kitchen,Cash,890,44,4,No
+ORD01059,CUST0169,2026-06-05,Karachi,PECHS,Burgers,Cloud Kitchen,Wallet,1030,66,3,No
+ORD01060,CUST0296,2026-05-30,Karachi,Clifton,Chinese,Cloud Kitchen,CARD,1570,41,3,No
+ORD01061,CUST0008,2026-05-09,Karachi,Gulshan-e-Iqbal,Pizza,Fast Food,Cash,1710,26,3,No
+ORD01062,CUST0017,2026-05-25,Rawalpindi,Saddar,Desi,Casual Dining,Card,1330,29,5,Yes
+ORD01063,CUST0005,2026-05-02,Lahore,Johar Town,Desi,Fast Food,Cash,1340,29,4,Yes
+ORD01064,CUST0117,2026-05-04,Karachi,Gulshan-e-Iqbal,Beverages,Cafe,Cash,680,20,4,No
+ORD01065,CUST0315,2026-05-01,Karachi,Gulshan-e-Iqbal,Pizza,Fast Food,Cash,1620,32,4,Yes
+ORD01066,CUST0133,2026-05-08,Karachi,North Nazimabad,Desi,Casual Dining,Cash,1280,42,5,No
+ORD01067,CUST0066,2026-05-14,Karachi,Gulshan-e-Iqbal,Healthy,Cafe,Cash,640,48,3,No
+ORD01068,CUST0092,2026-05-22,Karachi,DHA,Burgers,Cloud Kitchen,Cash,680,43,4,No
+ORD01069,CUST0281,2026-06-15,Lahore,Johar Town,Healthy,Cloud Kitchen,Cash,1400,25,5,Yes
+ORD01070,CUST0124,2026-06-06,Karachi,Gulshan-e-Iqbal,Beverages,Cafe,Card,690,42,5,Yes
+ORD01071,CUST0069,2026-05-14,Islamabad,F-10,Pizza,Fast Food,Cash,1040,46,4,No
+ORD01072,CUST0139,2026-05-05,Karachi,PECHS,Pizza,Fast Food,Card,1170,40,4,No
+ORD01073,CUST0140,2026-06-11,Karachi,Gulshan-e-Iqbal,Burgers,Fast Food,Cash,1180,34,2,No
+ORD01074,CUST0152,2026-05-29,Karachi,DHA,Pizza,Fast Food,Card,1720,44,3,No
+ORD01075,CUST0005,2026-05-04,Karachi,Gulshan-e-Iqbal,Desi,Cloud Kitchen,cash,1800,59,4,Yes
+ORD01076,CUST0174,2026-05-16,Karachi,Gulshan-e-Iqbal,Desi,Cloud Kitchen,Card,1750,39,4,No
+ORD01077,CUST0017,2026-05-05,Karachi,Gulshan-e-Iqbal,Chinese,Casual Dining,Wallet,2320,23,5,Yes
+ORD01078,CUST0342,2026-05-28,Lahore,Wapda Town,Desi,Casual Dining,Cash,1320,61,4,Yes
+ORD01079,CUST0267,2026-06-13,Islamabad,G-11,Beverages,Cafe,Card,410,41,2,No
+ORD01080,CUST0193,2026-05-22,Karachi,Gulshan-e-Iqbal,Desi,Casual Dining,Cash,1780,40,5,Yes
+ORD01081,CUST0005,2026-05-02,Karachi,Clifton,Healthy,Cafe,Card,920,41,4,Yes
+ORD01082,CUST0002,2026-05-31,Karachi,DHA,Burgers,Fast Food,CARD,1330,65,4,Yes
+ORD01083,CUST0087,2026-05-12,Islamabad,F-10,Burgers,Cloud Kitchen,Cash,1280,24,4,Yes
+ORD01084,CUST0144,2026-06-05,Karachi,DHA,Chinese,Cloud Kitchen,Wallet,1080,61,1,No
+ORD01085,CUST0395,2026-06-15,Karachi,PECHS,Bakery,Bakery,Wallet,630,37,4,No
+ORD01086,CUST0221,2026-05-26,Karachi,Gulshan-e-Iqbal,Beverages,Fast Food,Cash,390,40,5,No
+ORD01087,CUST0034,2026-05-20,Karachi,Clifton,Desi,Cloud Kitchen,Cash,990,43,5,No
+ORD01088,CUST0134,2026-05-31,Lahore,DHA Lahore,Healthy,Cafe,Cash,950,18,5,No
+ORD01089,CUST0075,2026-05-18,Lahore,Gulberg,Desi,Casual Dining,Cash,1070,39,2,Yes
+ORD01090,CUST0136,2026-05-24,Karachi,Gulistan-e-Johar,Chinese,Cloud Kitchen,Wallet,970,63,2,No
+ORD01091,CUST0318,2026-05-25,Karachi,PECHS,Healthy,Cafe,Card,770,43,2,Yes
+ORD01092,CUST0122,2026-05-02,Karachi,DHA,Pizza,Cloud Kitchen,Card,1510,38,3,No
+ORD01093,CUST0015,2026-05-26,Islamabad,I-8,Bakery,Bakery,Card,420,47,5,No
+ORD01094,CUST0314,2026-05-21,Islamabad,Bahria Town ISB,Bakery,Bakery,Wallet,860,26,5,No
+ORD01095,CUST0229,2026-06-02,Karachi,North Nazimabad,Burgers,Fast Food,Wallet,900,45,4,No
+ORD01096,CUST0374,2026-05-16,Lahore,DHA Lahore,Burgers,Fast Food,Cash,1320,33,4,Yes
+ORD01097,CUST0202,2026-05-21,Karachi,DHA,Chinese,Casual Dining,Cash,930,47,3,No
+ORD01098,CUST0007,2026-05-06,Karachi,PECHS,Healthy,Cloud Kitchen,Card,1360,31,4,No
+ORD01099,CUST0367,2026-05-23,Karachi,PECHS,Beverages,Cafe,Cash,390,30,5,No
+ORD01100,CUST0082,2026-05-13,Rawalpindi,Saddar,Desi,Casual Dining,Cash,1150,48,3,No
+ORD01101,CUST0259,2026-05-01,Karachi,Gulistan-e-Johar,Pizza,Fast Food,Cash,1670,26,5,Yes
+ORD01102,CUST0069,2026-06-14,Rawalpindi,Satellite Town,Bakery,Bakery,Cash,350,54,4,No
+ORD01103,CUST0015,2026-06-04,Karachi,Gulshan-e-Iqbal,Desi,Casual Dining,Card,1140,30,4,Yes
+ORD01104,CUST0152,2026-05-21,Islamabad,I-8,Desi,Casual Dining,Cash,1060,29,5,Yes
+ORD01105,CUST0265,2026-06-09,Lahore,Gulberg,Burgers,Cloud Kitchen,Card,1270,28,4,No
+ORD01106,CUST0196,2026-06-13,Karachi,North Nazimabad,Desi,Cloud Kitchen,CARD,1580,57,2,No
+ORD01107,CUST0247,2026-06-13,Karachi,North Nazimabad,Chinese,Casual Dining,Card,1720,32,5,Yes
+ORD01108,CUST0346,2026-05-27,Karachi,DHA,Burgers,Fast Food,Cash,1030,33,3,Yes
+ORD01109,CUST0163,2026-05-30,Rawalpindi,Saddar,Beverages,Cafe,CARD,300,26,5,Yes
+ORD01110,CUST0070,2026-06-09,Karachi,Gulistan-e-Johar,Chinese,Cloud Kitchen,Wallet,800,47,3,No
+ORD01111,CUST0114,2026-05-28,Karachi,Gulistan-e-Johar,Chinese,Fast Food,Card,1500,40,4,No
+ORD01112,CUST0168,2026-05-15,Karachi,North Nazimabad,Beverages,Cafe,Card,730,35,3,Yes
+ORD01113,CUST0269,2026-05-02,Karachi,Gulistan-e-Johar,Burgers,Fast Food,Cash,560,47,5,Yes
+ORD01114,CUST0185,2026-06-10,Karachi,Gulshan-e-Iqbal,Desi,Casual Dining,Cash,1100,40,4,No
+ORD01115,CUST0037,2026-06-11,Lahore,Wapda Town,Burgers,Cloud Kitchen,Wallet,720,45,2,Yes
+ORD01116,CUST0232,2026-06-09,Karachi,PECHS,Desi,Casual Dining,Wallet,1310,31,4,Yes
+ORD01117,CUST0143,2026-05-12,Lahore,Model Town,Desi,Casual Dining,Card,1850,37,3,No
+ORD01118,CUST0313,2026-05-27,Lahore,Johar Town,Pizza,Casual Dining,Cash,1710,21,3,No
+ORD01119,CUST0312,2026-05-12,Lahore,Model Town,Pizza,Cloud Kitchen,Cash,1560,41,2,No
+ORD01120,CUST0227,2026-05-03,Karachi,DHA,Pizza,Cloud Kitchen,Cash,1300,32,4,No
+ORD01121,CUST0292,2026-05-03,Karachi,Gulshan-e-Iqbal,Desi,Casual Dining,Cash,1860,30,4,Yes
+ORD01122,CUST0050,2026-05-21,Karachi,Gulistan-e-Johar,Pizza,Cloud Kitchen,Cash,1110,21,4,Yes
+ORD01123,CUST0382,2026-05-29,Karachi,DHA,Burgers,Fast Food,CARD,1310,26,4,Yes
+ORD01124,CUST0148,2026-05-08,Karachi,PECHS,Desi,Casual Dining,Wallet,1580,29,5,No
+ORD01125,CUST0236,2026-05-17,Islamabad,Blue Area,Beverages,Cafe,Card,710,34,5,No
+ORD01126,CUST0047,2026-05-27,Lahore,Gulberg,Pizza,Cloud Kitchen,Card,1950,43,4,No
+ORD01127,CUST0392,2026-05-14,Karachi,Gulistan-e-Johar,Pizza,Cloud Kitchen,Card,2160,45,4,No
+ORD01128,CUST0283,2026-05-20,Lahore,Gulberg,Bakery,Cafe,Card,430,72,3,No
+ORD01129,CUST0319,2026-05-03,Islamabad,I-8,Burgers,Cloud Kitchen,Wallet,1140,29,4,Yes
+ORD01130,CUST0207,2026-05-24,Karachi,Gulshan-e-Iqbal,Chinese,Fast Food,Cash,980,29,5,No
+ORD01131,CUST0383,2026-06-12,Lahore,Gulberg,Chinese,Cloud Kitchen,Card,1990,31,4,Yes
+ORD01132,CUST0351,2026-06-07,Karachi,PECHS,Bakery,Bakery,Cash,430,50,3,Yes
+ORD01133,CUST0333,2026-05-22,Rawalpindi,Satellite Town,Burgers,Fast Food,Cash,1310,40,3,Yes
+ORD01134,CUST0208,2026-05-17,Karachi,Gulshan-e-Iqbal,Beverages,Fast Food,Card,330,76,3,No
+ORD01135,CUST0370,2026-06-04,Karachi,Gulshan-e-Iqbal,Chinese,Fast Food,Wallet,1250,48,4,Yes
+ORD01136,CUST0390,2026-05-07,Lahore,Gulberg,Desi,Casual Dining,Card,1150,37,5,Yes
+ORD01137,CUST0084,2026-06-07,Islamabad,F-10,Healthy,Cafe,Cash,560,41,4,No
+ORD01138,CUST0206,2026-06-12,Karachi,Gulshan-e-Iqbal,Burgers,Fast Food,Card,800,42,4,Yes
+ORD01139,CUST0402,2026-05-28,Rawalpindi,Saddar,Pizza,Cloud Kitchen,Cash,1950,44,4,Yes
+ORD01140,CUST0303,2026-06-04,Lahore,DHA Lahore,Healthy,Cloud Kitchen,Cash,820,45,4,Yes
+ORD01141,CUST0138,2026-05-15,Karachi,PECHS,Chinese,Casual Dining,Cash,950,38,4,No
+ORD01142,CUST0234,2026-05-19,Islamabad,Blue Area,Pizza,Fast Food,Card,1280,42,3,No
+ORD01143,CUST0058,2026-06-13,Karachi,Gulshan-e-Iqbal,Bakery,Bakery,Cash,770,31,4,Yes
+ORD01144,CUST0235,2026-06-02,Karachi,Gulistan-e-Johar,Beverages,Cafe,CARD,360,65,3,No
+ORD01145,CUST0368,2026-05-28,Islamabad,F-10,Healthy,Cafe,Wallet,1020,33,3,No
+ORD01146,CUST0355,2026-05-31,Karachi,DHA,Chinese,Fast Food,Cash,750,22,4,No
+ORD01147,CUST0216,2026-05-22,Lahore,Wapda Town,Chinese,Casual Dining,Wallet,1150,38,4,No
+ORD01148,CUST0053,2026-06-05,Karachi,PECHS,Healthy,Cloud Kitchen,Card,930,42,3,No
+ORD01149,CUST0375,2026-05-12,Karachi,Gulshan-e-Iqbal,Burgers,Fast Food,Card,1080,27,4,No
+ORD01150,CUST0341,2026-05-27,Lahore,DHA Lahore,Beverages,Cafe,Cash,500,46,5,Yes
+ORD01151,CUST0117,2026-05-13,Karachi,Gulshan-e-Iqbal,Chinese,Casual Dining,Card,1400,27,3,Yes
+ORD01152,CUST0172,2026-06-15,Lahore,Johar Town,Healthy,Cloud Kitchen,Card,760,22,5,No
+ORD01153,CUST0016,2026-05-10,Karachi,DHA,Pizza,Fast Food,Card,1470,29,4,No
+ORD01154,CUST0392,2026-05-12,Karachi,Gulshan-e-Iqbal,Burgers,Fast Food,Cash,1170,50,2,No
+ORD01155,CUST0414,2026-06-14,Karachi,Clifton,Pizza,Fast Food,Cash,820,48,2,Yes
+ORD01156,CUST0293,2026-05-06,Karachi,Clifton,Burgers,Fast Food,Cash,620,37,5,No
+ORD01157,CUST0066,2026-05-23,Karachi,North Nazimabad,Pizza,Cloud Kitchen,Card,1600,23,4,Yes
+ORD01158,CUST0139,2026-05-08,Karachi,North Nazimabad,Chinese,Fast Food,cash,1090,30,5,Yes
+ORD01159,CUST0043,2026-06-02,Karachi,DHA,Healthy,Cafe,Cash,700,26,4,Yes
+ORD01160,CUST0169,2026-06-06,Karachi,Gulistan-e-Johar,Bakery,Bakery,Cash,710,49,3,No
+ORD01161,CUST0009,2026-05-23,Karachi,North Nazimabad,Burgers,Fast Food,Wallet,1020,50,3,Yes
+ORD01162,CUST0032,2026-05-18,Rawalpindi,Chaklala,Chinese,Casual Dining,Card,1250,37,3,Yes
+ORD01163,CUST0065,2026-05-15,Islamabad,Bahria Town ISB,Beverages,Cafe,Card,590,34,4,No
+ORD01164,CUST0146,2026-05-14,Lahore,Wapda Town,Burgers,Cloud Kitchen,Wallet,740,33,4,Yes
+ORD01165,CUST0148,2026-06-03,Karachi,DHA,Pizza,Casual Dining,cash,2300,60,5,No
+ORD01166,CUST0365,2026-06-14,Karachi,Clifton,Beverages,Cafe,Card,380,33,5,Yes
+ORD01167,CUST0109,2026-05-16,Islamabad,F-10,Burgers,Fast Food,cash,1100,32,4,No
+ORD01168,CUST0268,2026-05-23,Lahore,Johar Town,Chinese,Fast Food,Cash,1490,43,3,No
+ORD01169,CUST0398,2026-06-07,Rawalpindi,Saddar,Chinese,Fast Food,Card,1610,18,5,No
+ORD01170,CUST0414,2026-05-03,Lahore,Gulberg,Burgers,Fast Food,Card,810,37,5,Yes
+ORD01171,CUST0223,2026-06-14,Karachi,Gulistan-e-Johar,Pizza,Fast Food,Cash,2030,40,5,Yes
+ORD01172,CUST0201,2026-05-20,Karachi,DHA,Chinese,Cloud Kitchen,Card,1230,43,4,No
+ORD01173,CUST0076,2026-06-10,Karachi,Gulistan-e-Johar,Burgers,Fast Food,Wallet,950,70,3,Yes
+ORD01174,CUST0419,2026-05-19,Karachi,PECHS,Burgers,Cloud Kitchen,Card,1330,42,3,No
+ORD01175,CUST0035,2026-05-02,Karachi,DHA,Healthy,Cloud Kitchen,E-Wallet,1350,40,4,No
+ORD01176,CUST0278,2026-05-07,Islamabad,F-10,Healthy,Casual Dining,Card,1620,34,4,No
+ORD01177,CUST0324,2026-06-07,Karachi,DHA,Beverages,Fast Food,Cash,530,44,4,No
+ORD01178,CUST0417,2026-05-01,Rawalpindi,Bahria Rawalpindi,Chinese,Casual Dining,Card,1550,36,5,Yes
+ORD01179,CUST0153,2026-06-09,Karachi,PECHS,Desi,Casual Dining,Cash,1520,32,5,Yes
+ORD01180,CUST0367,2026-05-25,Lahore,Gulberg,Chinese,Casual Dining,Cash,2300,23,5,No
+ORD01181,CUST0099,2026-05-25,Lahore,Gulberg,Healthy,Cloud Kitchen,Wallet,1090,33,5,Yes
+ORD01182,CUST0075,2026-05-12,Karachi,Gulistan-e-Johar,Chinese,Fast Food,Cash,1520,28,4,Yes
+ORD01183,CUST0206,2026-05-27,Karachi,Clifton,Desi,Casual Dining,Cash,1710,27,4,No
+ORD01184,CUST0051,2026-05-15,Karachi,Gulshan-e-Iqbal,Burgers,Fast Food,Cash,670,29,4,No
+ORD01185,CUST0369,2026-05-15,Karachi,DHA,Desi,Cloud Kitchen,E-Wallet,1530,35,4,No
+ORD01186,CUST0033,2026-05-26,Lahore,Wapda Town,Bakery,Cafe,Card,800,31,4,No
+ORD01187,CUST0114,2026-05-21,Rawalpindi,Saddar,Burgers,Fast Food,Card,1230,22,5,No
+ORD01188,CUST0352,2026-05-16,Karachi,DHA,Burgers,Fast Food,E-Wallet,1060,33,5,No
+ORD01189,CUST0230,2026-05-21,Islamabad,F-10,Chinese,Casual Dining,Card,1160,27,5,No
+ORD01190,CUST0001,2026-06-05,Karachi,North Nazimabad,Chinese,Casual Dining,Cash,2160,34,5,No
+ORD01191,CUST0208,2026-05-11,Rawalpindi,Bahria Rawalpindi,Desi,Fast Food,Wallet,1360,33,5,No
+ORD01192,CUST0100,2026-05-16,Lahore,Model Town,Healthy,Cafe,Cash,620,54,3,No
+ORD01193,CUST0155,2026-05-13,Karachi,Clifton,Chinese,Cloud Kitchen,Card,1160,67,3,No
+ORD01194,CUST0270,2026-05-06,Islamabad,F-10,Pizza,Cloud Kitchen,Cash,1890,49,3,Yes
+ORD01195,CUST0328,2026-05-18,Karachi,Gulshan-e-Iqbal,Chinese,Cloud Kitchen,Cash,1970,48,4,Yes
+ORD01196,CUST0386,2026-05-01,Lahore,Gulberg,Chinese,Casual Dining,Cash,2340,21,4,Yes
+ORD01197,CUST0074,2026-05-29,Karachi,DHA,Pizza,Fast Food,Cash,1710,40,4,No
+ORD01198,CUST0140,2026-06-01,Lahore,Gulberg,Healthy,Cafe,Cash,1290,38,5,Yes
+ORD01199,CUST0382,2026-05-14,Karachi,Gulshan-e-Iqbal,Burgers,Fast Food,Wallet,1180,43,4,No
+ORD01200,CUST0205,2026-06-15,Lahore,DHA Lahore,Burgers,Fast Food,Wallet,1000,48,3,No
